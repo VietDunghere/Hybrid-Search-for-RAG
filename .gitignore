@@ -1,0 +1,57 @@
+# Python Standard
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables
+.env
+.env.local
+.env.*
+
+# Project Specific
+# Exclude the vector database storage
+chroma_db/
+
+# Exclude generated output reports
+output/
+
+# Configuration with Secrets
+# config.py contains API keys, so it should not be committed.
+# Consider creating a config_example.py for the repo.
+config.py
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+.DS_Store
+Thumbs.db

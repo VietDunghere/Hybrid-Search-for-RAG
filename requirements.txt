@@ -1,0 +1,25 @@
+# Core
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Embedding
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Vector Store
+chromadb>=0.4.0
+
+# BM25 Sparse Retrieval
+rank-bm25>=0.2.2
+
+# LLM Client (OpenAI-compatible for NVIDIA NIM)
+openai>=1.0.0
+
+# RAGAS Evaluation
+ragas>=0.2.0
+datasets>=2.14.0
+langchain>=0.3.0
+langchain-openai>=0.3.0
+
+# Utilities
+tqdm>=4.65.0
