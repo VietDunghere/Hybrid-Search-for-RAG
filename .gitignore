@@ -38,8 +38,6 @@ venv.bak/
 # Exclude the vector database storage
 chroma_db/
 
-# Exclude generated output reports
-output/
 
 # Configuration with Secrets
 # config.py contains API keys, so it should not be committed.

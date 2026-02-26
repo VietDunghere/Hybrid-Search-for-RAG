@@ -1,0 +1,3010 @@
+
+======================================================================
+CÂU HỎI 1: Theo Thông tư 01/1999/TT-BXD, giá trị dự toán xây lắp sau thuế bao gồm những thành phần nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên văn bản được cung cấp, giá trị dự toán xây lắp sau thuế của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế giá trị gia tăng đầu ra.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.9920
+  I- ĐỐI VỚI
+GIÁ TRỊ DỰ TOÁN XÂY LẮP
+ Giá trị dự toán xây lắp sau thuế
+của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế
+giá trị gia tăng đầu ra. Trong đó: 1- Giá trị dự toán xây lắp trước
+thuế: Giá trị dự toán xây lắp trước
+thuế là mức giá để tính thuế giá trị gia tăng,...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.8619
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.6934
+  mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng
+dẫn tại thông tư này. Để có căn cứ lập lại bộ đơn giá
+xây dựng cơ bản mới áp dụng từ ngày 01/01/1999 đề nghị Uỷ ban nhân dân các tỉnh,
+thành phố chỉ đạo Liên Sở xây dựng - Tài chính - Vật giá xác định giá các loại
+vật tư, vật ...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.5146
+  mà doanh nghiệp xây dựng đã ứng
+trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng... nhưng chưa
+được tính vào chi phí vật liệu, chi máy thi công và chi phí chung trong dự toán
+xây lắp trước thuế và phần thuế giá trị gia tăng mà doanh nghiệp xây dựng phải
+nộp. Mức thuế suất thuế giá trị...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.4831
+  Thu nhập chịu thuế tính trước
+ (T + C) x Tỷ lệ quy định
+ TL
+ Giá trị dự toán xây lắp trước
+thuế (T + C + TL)
+ Z
+ IV
+ Thuế Giá trị gia tăng đầu ra
+ Z x T
+ GTGT
+ VAT
+ Giá trị dự toán xây lắp sau
+thuế
+ (T + C + TL) + VAT
+ G
+ xl
+ Trong đó: Q
+ j
+ : khối lượng công
+tác xây lắp thứ j
+ D
+ jvl
+ , D
+ jnc
+ ,
+D...
+
+======================================================================
+CÂU HỎI 2: Chi phí trực tiếp trong dự toán xây lắp trước thuế theo Thông tư 01/1999/TT-BXD bao gồm các chi phí nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo Thông tư 01/1999/TT-BXD, chi phí trực tiếp trong dự toán xây lắp trước thuế bao gồm 3 loại chi phí:
+
+1. Chi phí vật liệu (VL)
+2. Chi phí nhân công (NC)
+3. Chi phí máy thi công (M)
+
+Những chi phí này được xác định dựa trên cơ sở khối lượng xây lắp tính theo thiết kế được duyệt và đơn giá xây dựng cơ bản của công tác xây lắp tương ứng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.7654
+  PHỤ LỤC 1
+ BẢNG TỔNG HỢP GIÁ TRỊ DỰ TOÁN XÂY LẮP CÔNG TRÌNH XÂY DỰNG
+CƠ BẢN
+ STT
+ Khoản
+mục chi phí
+ Cách
+tính
+ Kết
+quả
+ I
+ Chi phí trực tiếp
+ 1
+ Chi phí vật liệu
+ m
+ ồQ
+ j
+ x D
+ jvl
+ + Cl
+ vl
+ j =1
+ VL
+ 2
+ Chi phí nhân công
+ m F
+ 1
+ F
+ 2
+ ồQ
+ j
+ x D
+ jnc
+ (1+ + )
+ j=1 h
+ 1n
+ h
+ 2n
+ NC
+ 3
+ Chi phí m...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.6047
+  I- ĐỐI VỚI
+GIÁ TRỊ DỰ TOÁN XÂY LẮP
+ Giá trị dự toán xây lắp sau thuế
+của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế
+giá trị gia tăng đầu ra. Trong đó: 1- Giá trị dự toán xây lắp trước
+thuế: Giá trị dự toán xây lắp trước
+thuế là mức giá để tính thuế giá trị gia tăng,...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.5327
+  1.1- Chi phí tực tiếp: Bao gồm chi phí vật liệu, chi
+phí nhân công và chi phí sử dụng máy thi công được xác định dựa trên cơ sở khối
+lương xây lắp tính theo thiết kế được duyệt và đơn giá xây dựng cơ bản của công
+tác xây lắp tương ứng. 1.1.1- Chi phí vật liệu: Bao gồm vật liệu chính, vật liệu
+phụ, c...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.5229
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.3071
+  mà doanh nghiệp xây dựng đã ứng
+trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng... nhưng chưa
+được tính vào chi phí vật liệu, chi máy thi công và chi phí chung trong dự toán
+xây lắp trước thuế và phần thuế giá trị gia tăng mà doanh nghiệp xây dựng phải
+nộp. Mức thuế suất thuế giá trị...
+
+======================================================================
+CÂU HỎI 3: Tại sao lại có sự chênh lệch vật liệu trong chi phí dự toán theo Thông tư 01/1999/TT-BXD và phần chênh lệch này được xử lý như thế nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Sự chênh lệch vật liệu trong chi phí dự toán theo Thông tư 01/1999/TT-BXD xảy ra do sự thay đổi giá cả vật liệu. Để xử lý phần chênh lệch này, cần căn cứ vào mức giá chưa có thuế giá trị gia tăng trong thông báo từng thời kỳ của cơ quan có thẩm quyền công bố và mức giá đã tính trong đơn giá xây dựng cơ bản để xác định phần chênh lệch và đưa trực tiếp vào chi phí vật liệu trong dự toán.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.7811
+  tăng đầu vào mà doanh nghiệp xây dựng ứng trả khi mua vật tư, vật
+liệu phục vụ xây lắp công trình. Khi có sự thay đổi giá cả vật liệu
+thì căn cứ vào mức giá chưa có thuế giá trị gia tăng trong thông báo từng thời
+kỳ của cơ quan có thẩm quyền công bố và mức giá đã tính trong đơn giá xây dựng
+cơ bản đ...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.7321
+  mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng
+dẫn tại thông tư này. Để có căn cứ lập lại bộ đơn giá
+xây dựng cơ bản mới áp dụng từ ngày 01/01/1999 đề nghị Uỷ ban nhân dân các tỉnh,
+thành phố chỉ đạo Liên Sở xây dựng - Tài chính - Vật giá xác định giá các loại
+vật tư, vật ...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.6721
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.3598
+  các công trình của ngành và địa pương không được trái với những quy định
+trong Thông tư này. Đối với các công trình xây dựng
+có chuyển tiếp từ năm trước sang năm 1999 thì Chủ đầu tư và đơn vị nhận thầu ở
+công trình phải lập biên bản theo mẫu biểu của Bộ Tài chính, xác định giá trị
+khối lượng xây dựn...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.3361
+  định phần chênh lệch và đưa trực tiếp vào chi phí vật liệu trong
+dự toán. 1.1.2- Chi phí nhân công Chi phí phân công trong dự toán
+xây lắp bao gồm lương cơ bản, các khoản phụ cấp có tính chất lương và các chi
+phí theo chế độ đối với công nhân xây lắp mà có thể khoán trực tiếp cho người
+lao động để t...
+
+======================================================================
+CÂU HỎI 4: Tình huống: Một công trình xây dựng bắt đầu thi công từ năm 1998 và tiếp tục chuyển tiếp sang năm 1999.
+
+Câu hỏi: Việc áp dụng thuế giá trị gia tăng cho các khối lượng xây dựng hoàn thành trước và sau ngày 31/12/1998 được quy định như thế nào theo Thông tư 01/1999/TT-BXD?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo đoạn văn bản 2, đối với công trình xây dựng có chuyển tiếp từ năm trước sang năm 1999, việc áp dụng thuế giá trị gia tăng cho các khối lượng xây dựng hoàn thành trước và sau ngày 31/12/1998 được quy định như sau:
+
+- Đối với khối lượng công trình, hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị gia tăng.
+- Đối với khối lượng công trình, hạng mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng dẫn tại Thông tư này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.9452
+  các công trình của ngành và địa pương không được trái với những quy định
+trong Thông tư này. Đối với các công trình xây dựng
+có chuyển tiếp từ năm trước sang năm 1999 thì Chủ đầu tư và đơn vị nhận thầu ở
+công trình phải lập biên bản theo mẫu biểu của Bộ Tài chính, xác định giá trị
+khối lượng xây dựn...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.8518
+  từ 01/01/1999 để áp dụng thuế giá trị gia tăng và thuế thu nhập
+doanh nghiệp theo nguyên tắc sau: - Đối với khối lượng công trình,
+hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị
+gia tăng. - Đối với khối lượng công trình,
+hạng mục công trình thực hiện từ ngày 01/01/1999 ...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.6986
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.5049
+  ngày 17/12/1998 của Thủ tướng Chính phủ về
+việc tiếp tục tổ chức thực hiện các Luật thuế mới; Căn cứ Thông tư số 89/1998/TT-BTC ngày 27/6/1998 của Bộ Tài chính hướng dẫn
+thi hành Nghị định số 28/1998/NĐ-CP; Để quản lý chặt chẽ vốn đầu tư xây dựng cơ bản, đưa công tác lập và quản lý
+giá phù hợp với c...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.4997
+  mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng
+dẫn tại thông tư này. Để có căn cứ lập lại bộ đơn giá
+xây dựng cơ bản mới áp dụng từ ngày 01/01/1999 đề nghị Uỷ ban nhân dân các tỉnh,
+thành phố chỉ đạo Liên Sở xây dựng - Tài chính - Vật giá xác định giá các loại
+vật tư, vật ...
+
+======================================================================
+CÂU HỎI 5: Định mức chi phí chung đối với công tác Lắp đặt điện, nước, đường ống, máy công nghệ theo Phụ lục 2 Thông tư 01/1999/TT-BXD là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Định mức chi phí chung đối với công tác Lắp đặt điện, nước, đường ống, máy công nghệ theo Phụ lục 2 Thông tư 01/1999/TT-BXD là 63,5%.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.6539
+  ca máy,
+thiết bị thi công do Bộ Xây dụng ban hành (Quyết định số 1260/1998/QĐ-BXD ngày
+28/11/1998). Trong đó chi phí nhân công thợ điều khiển, sửa chữa máy, thiết bị
+thi công đã bao gồm các nội dung như điểm 1.1.2 nói trên. Một số chi phí thuộc các thông số
+tính trong giá ca máy, thiết bị thi công (...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.5445
+  PHỤ LỤC SỐ 2
+ ĐỊNH MỨC CHI PHÍ CHUNG VÀ THU NHẬP CHỊU THUẾ TÍNH TRƯỚC
+ Đơn vị tính: %
+ Số
+ TT
+ Loại
+công trình, công tác xây lắp
+ Chi
+phí chung
+ Thu
+nhập chịu thuế tính trước
+ 1
+ Xây dựng công trình dân dụng
+thông thường
+ 55,0
+ 5,5
+ 2
+ Xây dựng nhà bê tông tấm lớn,
+lắp dựng kết cấu thép
+ 63,5
+ 5,5
+ ...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.4507
+  hoang, xây dựng đồng ruộng
+ 55,0
+ 5,5
+ 21
+ Một số dây chuyền thi công cơ
+giới
+ 2,5
+ 5,0
+ Ghi chú: Mức chi phí
+chung trong mục 21 tính trên chi phí sử dụng máy thi công và chỉ áp dụng đối với
+công trình, hạng mục công trình sử dụng dây chuyền công nghệ thi công đồng bộ bằng
+máy được lập thành dự toán...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.4202
+  5,5
+ - Riêng XD đường hầm trong
+công trình thuỷ điện
+ 74,0
+ 6,5
+ - Trạm thuỷ điện nhỏ
+ 64,0
+ 5,5
+ 5 Lắp đặt điện, nước, đường ống,
+máy công nghệ
+ 63,5
+ 5,5
+ 6
+ Xây dựng nền đường, mặt đường
+bộ
+ 66,0
+ 6
+ 7
+ Xây dựng mặt đường sắt
+ 67,0
+ 6
+ 8
+ Xây dựng cầu cống giao thông,
+triền đà, ụ tầu, bến cảng
+ 6...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.3996
+  chi phí nhân công theo hướng
+dẫn ở bảng tổng họp giá trị dự toán xây lắp như phụ lục 1 kém theo. - Đối với đơn giá xây dựng cơ bản
+công trình: đưa trực tiếp vào đơn giá các khoản lương cơ bản, phụ cấp có tính
+chất lương và các chế độ đối với công nhân xây lắp mà công trình được hưởng
+theo cách tính ...
+
+======================================================================
+CÂU HỎI 6: Thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế theo Thông tư 01/1999/TT-BXD được quy định ở mức bao nhiêu phần trăm?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo thông tin trong đoạn văn bản được cung cấp, cụ thể là tại Phụ lục số 2, không có quy định cụ thể về mức thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế. Tuy nhiên, dựa trên thông tin có trong Phụ lục số 2, chúng ta có thể thấy rằng mức thu nhập chịu thuế tính trước đối với các loại công trình khác nhau được quy định như sau:
+
+- Xây dựng công trình dân dụng thông thường: 5,5%
+- Xây dựng nhà bê tông tấm lớn, lắp dựng kết cấu thép: 5,5%
+- Xây dựng công trình công nghiệp, dân dụng đặc biệt: 5,5%
+- Xây dựng công trình thuỷ điện: 5,5%
+- Riêng XD đường hầm trong công trình thuỷ điện: 6,5%
+- Trạm thuỷ điện nhỏ: 5,5%
+
+Do không có quy định cụ thể về mức thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế, nên chúng ta không thể xác định chính xác mức thu nhập chịu thuế tính trước cho loại công trình này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 1.0000
+  1.3- Thu nhập chịu thuế tính trước: Trong dự toán xây lắp công
+trình, mức thu nhập chịu thuế tính trước bằng tỷ lệ phần trăm (%) so với chi
+phí trực tiếp và chi phí chung theo từng loại công trình quy định tại phụ lục
+2. Khoản thu nhập chịu thuế tính
+trước sử dụng để nộp thuế thu nhập doanh nghiệp v...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.8868
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.7287
+  các công trình của ngành và địa pương không được trái với những quy định
+trong Thông tư này. Đối với các công trình xây dựng
+có chuyển tiếp từ năm trước sang năm 1999 thì Chủ đầu tư và đơn vị nhận thầu ở
+công trình phải lập biên bản theo mẫu biểu của Bộ Tài chính, xác định giá trị
+khối lượng xây dựn...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.6090
+  PHỤ LỤC SỐ 2
+ ĐỊNH MỨC CHI PHÍ CHUNG VÀ THU NHẬP CHỊU THUẾ TÍNH TRƯỚC
+ Đơn vị tính: %
+ Số
+ TT
+ Loại
+công trình, công tác xây lắp
+ Chi
+phí chung
+ Thu
+nhập chịu thuế tính trước
+ 1
+ Xây dựng công trình dân dụng
+thông thường
+ 55,0
+ 5,5
+ 2
+ Xây dựng nhà bê tông tấm lớn,
+lắp dựng kết cấu thép
+ 63,5
+ 5,5
+ ...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.5461
+  từ 01/01/1999 để áp dụng thuế giá trị gia tăng và thuế thu nhập
+doanh nghiệp theo nguyên tắc sau: - Đối với khối lượng công trình,
+hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị
+gia tăng. - Đối với khối lượng công trình,
+hạng mục công trình thực hiện từ ngày 01/01/1999 ...
+
+======================================================================
+CÂU HỎI 7: Thuế giá trị gia tăng đầu ra trong dự toán xây lắp theo Thông tư 01/1999/TT-BXD có mục đích sử dụng là gì?
+======================================================================
+
+📝 TRẢ LỜI:
+Thuế giá trị gia tăng đầu ra trong dự toán xây lắp theo Thông tư 01/1999/TT-BXD có mục đích sử dụng là để trả số thuế giá trị gia tăng đầu vào mà doanh nghiệp xây dựng đã ứng trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng...
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 1.0000
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.6908
+  mà doanh nghiệp xây dựng đã ứng
+trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng... nhưng chưa
+được tính vào chi phí vật liệu, chi máy thi công và chi phí chung trong dự toán
+xây lắp trước thuế và phần thuế giá trị gia tăng mà doanh nghiệp xây dựng phải
+nộp. Mức thuế suất thuế giá trị...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.6363
+  sử dụng để nộp thuế thu nhập doanh nghiệp và một số khoản chi phí phải nộp,
+phải trừ khác. Phần còn lại được trích lập các quỹ theo Quy chế quản lý tài
+chính và hạch toán kinh doanh đối với doanh nghiệp Nhà nưóc ban hành kèm theo
+Nghị định số 59/CP ngày 3/10/1996 của Chính Phủ. 2- Thuế giá trị gia t...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.6259
+  từ 01/01/1999 để áp dụng thuế giá trị gia tăng và thuế thu nhập
+doanh nghiệp theo nguyên tắc sau: - Đối với khối lượng công trình,
+hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị
+gia tăng. - Đối với khối lượng công trình,
+hạng mục công trình thực hiện từ ngày 01/01/1999 ...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.5606
+  I- ĐỐI VỚI
+GIÁ TRỊ DỰ TOÁN XÂY LẮP
+ Giá trị dự toán xây lắp sau thuế
+của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế
+giá trị gia tăng đầu ra. Trong đó: 1- Giá trị dự toán xây lắp trước
+thuế: Giá trị dự toán xây lắp trước
+thuế là mức giá để tính thuế giá trị gia tăng,...
+
+======================================================================
+CÂU HỎI 8: Dự toán chi phí thiết kế trước thuế được tính như thế nào khi áp dụng thuế GTGT theo Thông tư 01/1999/TT-BXD?
+======================================================================
+
+📝 TRẢ LỜI:
+Dự toán chi phí thiết kế trước thuế được tính bằng dự toán chi phí thiết kế tính theo bản giá thiết kế công trình xây dựng ban hành kèm theo Quyết định số 179/BXD-VKT ngày 17/7/1995 của Bộ Xây dựng, nhân với hệ số điều chỉnh K = 0,96.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.9353
+  1.2- Dự toán chi phí khảo sát
+xây dựng sau thuế bằng dự toán chi phí khảo sát xây dựng trước thuế nêu ở điểm
+1.1 cộng (+) thêm khoản thuế giá trị gia tăng đầu ra theo quy định.
+
+2- Về chi phí thiết kế:
+
+Dự toán chi phí thiết kế tính
+theo bản giá thiết kế công trình xây dựng ban hành kèm theo Quyết đ...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.8641
+  2.2- Dự toán chi phí thiết kế
+sau thuế bằng dự toán chi phí thiết kế trước thuế nêu ở điểm 2.1 cộng (+) thêm
+khoản thuế giá trị gia tăng đầu ra theo quy định. Đối với công tác xây dựng quy hoạch
+xây dựng đô thị khi áp dụng thuế giá trị gia tăng thì dự toán chi phí được xác
+định như đối với dự toán c...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.8450
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.7191
+  2.1- Dự toán chi phí thiết kế
+trước thuế bằng dự toán chi phí thiết kế tính theo quy định nói trên nhân với hệ
+số điều chỉnh K = 0,96....
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.3439
+  từ 01/01/1999 để áp dụng thuế giá trị gia tăng và thuế thu nhập
+doanh nghiệp theo nguyên tắc sau: - Đối với khối lượng công trình,
+hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị
+gia tăng. - Đối với khối lượng công trình,
+hạng mục công trình thực hiện từ ngày 01/01/1999 ...
+
+======================================================================
+CÂU HỎI 9: Tiền trợ cấp ăn trưa hàng tháng cho công nhân xây lắp theo Thông tư 01/1999/TT-BXD là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến tiền trợ cấp ăn trưa hàng tháng cho công nhân xây lắp.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.8498
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.6000
+  mức. Theo nguyên tắc này chi phí nhân
+công trong đơn giá xây dựng cơ bản được xác định như sau: - Đối với đơn giá của các tỉnh,
+thành phố trực thuộc Trung ương khoản chi phí nhân công được tính với mức lương
+tối thiểu là 144.000đ/tháng, cấp bậc tiền lương theo bảng lương A6 kèm theo Nghị
+định số 05/...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.5433
+  12% và một số chi phí có thể
+khoán trực tiếp cho người lao động tính bằng 4% so với lương cơ bản. Đối với
+các công trình được hưởng thêm các khoản lương phụ, phụ cấp lương và các chế độ
+chính sách khác chưa tính trong thành phần đơn giá XDCB đã nêu ở trên hoặc được
+hưởng phụ cấp lưu động ở mức cao h...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.4228
+  mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng
+dẫn tại thông tư này. Để có căn cứ lập lại bộ đơn giá
+xây dựng cơ bản mới áp dụng từ ngày 01/01/1999 đề nghị Uỷ ban nhân dân các tỉnh,
+thành phố chỉ đạo Liên Sở xây dựng - Tài chính - Vật giá xác định giá các loại
+vật tư, vật ...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.3431
+  chi phí nhân công theo hướng
+dẫn ở bảng tổng họp giá trị dự toán xây lắp như phụ lục 1 kém theo. - Đối với đơn giá xây dựng cơ bản
+công trình: đưa trực tiếp vào đơn giá các khoản lương cơ bản, phụ cấp có tính
+chất lương và các chế độ đối với công nhân xây lắp mà công trình được hưởng
+theo cách tính ...
+
+======================================================================
+CÂU HỎI 10: Tình huống: Một dự án áp dụng định mức chi phí chung là 55,0% và thu nhập chịu thuế tính trước là 5,5%.
+
+Câu hỏi: Loại công trình nào phù hợp với các định mức này theo Phụ lục 2 của Thông tư 01/1999/TT-BXD?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin trong Phụ lục 2 của Thông tư 01/1999/TT-BXD, loại công trình phù hợp với định mức chi phí chung là 55,0% và thu nhập chịu thuế tính trước là 5,5% là công trình xây dựng công trình dân dụng thông thường.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_1999_TT-BXD.txt | Score: 0.9829
+  PHỤ LỤC SỐ 2
+ ĐỊNH MỨC CHI PHÍ CHUNG VÀ THU NHẬP CHỊU THUẾ TÍNH TRƯỚC
+ Đơn vị tính: %
+ Số
+ TT
+ Loại
+công trình, công tác xây lắp
+ Chi
+phí chung
+ Thu
+nhập chịu thuế tính trước
+ 1
+ Xây dựng công trình dân dụng
+thông thường
+ 55,0
+ 5,5
+ 2
+ Xây dựng nhà bê tông tấm lớn,
+lắp dựng kết cấu thép
+ 63,5
+ 5,5
+ ...
+
+  [2] Source: 01_1999_TT-BXD.txt | Score: 0.8841
+  1.3- Thu nhập chịu thuế tính trước: Trong dự toán xây lắp công
+trình, mức thu nhập chịu thuế tính trước bằng tỷ lệ phần trăm (%) so với chi
+phí trực tiếp và chi phí chung theo từng loại công trình quy định tại phụ lục
+2. Khoản thu nhập chịu thuế tính
+trước sử dụng để nộp thuế thu nhập doanh nghiệp v...
+
+  [3] Source: 01_1999_TT-BXD.txt | Score: 0.2861
+  các công trình của ngành và địa pương không được trái với những quy định
+trong Thông tư này. Đối với các công trình xây dựng
+có chuyển tiếp từ năm trước sang năm 1999 thì Chủ đầu tư và đơn vị nhận thầu ở
+công trình phải lập biên bản theo mẫu biểu của Bộ Tài chính, xác định giá trị
+khối lượng xây dựn...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.2537
+  Thu nhập chịu thuế tính trước
+ (T + C) x Tỷ lệ quy định
+ TL
+ Giá trị dự toán xây lắp trước
+thuế (T + C + TL)
+ Z
+ IV
+ Thuế Giá trị gia tăng đầu ra
+ Z x T
+ GTGT
+ VAT
+ Giá trị dự toán xây lắp sau
+thuế
+ (T + C + TL) + VAT
+ G
+ xl
+ Trong đó: Q
+ j
+ : khối lượng công
+tác xây lắp thứ j
+ D
+ jvl
+ , D
+ jnc
+ ,
+D...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.2424
+  1.2- Chi phí chung:
+
+Được tính bằng tỷ lệ phần trăm
+(%) so với chi phí nhân công trong dự toán xây lắp. Khoản chi phí chung này quy
+định theo từng loại công trình tại phụ lục 2.
+
+Một số khoản mục chi phí thuộc
+các thông số tính trong chi phí chung chưa tính thuế giá trị gia tăng đầu vào....
+
+======================================================================
+CÂU HỎI 11: Mức lệ phí cấp giấy phép thành lập trung tâm trọng tài là bao nhiêu theo Thông tư 01/2005/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Mức lệ phí cấp giấy phép thành lập trung tâm trọng tài là 500.000 đồng, theo quy định tại mục I của đoạn văn bản II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ, Thông tư 01/2005/TT-BTC.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.8434
+  1. Tổ chức, cá
+nhân khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập,
+đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng
+tài phải nộp lệ phí cấp giấy phép thành lập, đăng ký hoạt động....
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.8358
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.7129
+  II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ
+ 1. Mức thu: Căn cứ quy định tại
+Điều 13 và Điều 14 Nghị định số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy
+định chi tiết thi hành một số điều của Pháp lệnh Trọng tài thương mại, mức thu
+lệ phí cấp phép, thay đổi nội dung giấy phép, đăng k...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.7105
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.6331
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+======================================================================
+CÂU HỎI 12: Theo Thông tư 01/2005/TT-BTC, lệ phí khi yêu cầu Tòa án chỉ định trọng tài viên hoặc thay đổi trọng tài viên là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo Thông tư 01/2005/TT-BTC, lệ phí khi yêu cầu Tòa án chỉ định trọng tài viên hoặc thay đổi trọng tài viên là 100.000 đồng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 1.0000
+  trọng tài
+ 200.000
+ Đăng ký hoạt động
+chi nhánh
+ 100.000
+ II. LỆ PHÍ TÒA ÁN
+LIÊN QUAN ĐẾN TRỌNG TÀI Yêu cầu Tòa án
+chỉ định trọng tài viên, thay đổi trọng tài viên
+ 100.000
+ Yêu cầu Tòa án
+xem xét lại quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm
+quyền giải quyết vụ tranh chấp c...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.8209
+  2. Tổ chức, cá
+nhân yêu cầu Toà án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm quyền giải
+quyết vụ tranh chấp của hội đồng trọng tài, áp dụng, thay đổi, hủy bỏ biện pháp
+khẩn cấp tạm thời, hủy quyết định trọng tài, ...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.7876
+  a) Đối tượng nộp lệ phí phải nộp đủ một lần số tiền lệ phí quy định tại điểm 1 mục này khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài hoặc khi gửi đơn yêu cầu Tòa án chỉ định trọng tài viê...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.5868
+  thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động
+chi nhánh trung tâm trọng tài; - Cơ quan thu lệ
+phí toà án liên quan đến trọng tài là Toà án nơi đối tượng nộp lệ phí gửi đơn
+yêu cầu Tòa án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.5141
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+======================================================================
+CÂU HỎI 13: Tình huống: Một trung tâm trọng tài vừa được cấp phép hoạt động nay muốn đăng ký thành lập thêm một chi nhánh tại thành phố khác.
+
+Câu hỏi: Trung tâm trọng tài này sẽ phải nộp khoản lệ phí nào và mức thu là bao nhiêu theo Thông tư 01/2005/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Trung tâm trọng tài sẽ phải nộp lệ phí đăng ký hoạt động chi nhánh của trung tâm trọng tài. Mức thu là 100.000 đồng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.9989
+  1. Tổ chức, cá
+nhân khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập,
+đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng
+tài phải nộp lệ phí cấp giấy phép thành lập, đăng ký hoạt động....
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.8850
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.8701
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.8518
+  II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ
+ 1. Mức thu: Căn cứ quy định tại
+Điều 13 và Điều 14 Nghị định số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy
+định chi tiết thi hành một số điều của Pháp lệnh Trọng tài thương mại, mức thu
+lệ phí cấp phép, thay đổi nội dung giấy phép, đăng k...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.7990
+  a) Đối tượng nộp lệ phí phải nộp đủ một lần số tiền lệ phí quy định tại điểm 1 mục này khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài hoặc khi gửi đơn yêu cầu Tòa án chỉ định trọng tài viê...
+
+======================================================================
+CÂU HỎI 14: Cơ quan nào có thẩm quyền thu lệ phí cấp giấy phép thành lập và đăng ký hoạt động của trung tâm trọng tài?
+======================================================================
+
+📝 TRẢ LỜI:
+Cơ quan có thẩm quyền cấp giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài là cơ quan có thẩm quyền thu lệ phí cấp giấy phép thành lập và đăng ký hoạt động của trung tâm trọng tài.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 1.0000
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.8521
+  1. Tổ chức, cá
+nhân khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập,
+đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng
+tài phải nộp lệ phí cấp giấy phép thành lập, đăng ký hoạt động....
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.7348
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.7095
+  thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động
+chi nhánh trung tâm trọng tài; - Cơ quan thu lệ
+phí toà án liên quan đến trọng tài là Toà án nơi đối tượng nộp lệ phí gửi đơn
+yêu cầu Tòa án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.6581
+  a) Đối tượng nộp lệ phí phải nộp đủ một lần số tiền lệ phí quy định tại điểm 1 mục này khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài hoặc khi gửi đơn yêu cầu Tòa án chỉ định trọng tài viê...
+
+======================================================================
+CÂU HỎI 15: Tình huống: Ông B muốn gửi đơn yêu cầu Tòa án hủy một quyết định trọng tài mà ông cho là không thỏa đáng.
+
+Câu hỏi: Ông B phải nộp lệ phí cho cơ quan nào và số tiền lệ phí phải nộp là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản pháp luật được cung cấp, tôi trả lời như sau:
+
+Ông B phải nộp lệ phí cho Tòa án nơi ông gửi đơn yêu cầu hủy quyết định trọng tài.
+
+Số tiền lệ phí mà ông B phải nộp là 500.000 đồng.
+
+Cơ sở pháp lý cho câu trả lời này là đoạn 2 và đoạn 3 của văn bản pháp luật, trong đó quy định rằng cơ quan thu lệ phí tòa án liên quan đến trọng tài là Tòa án nơi đối tượng nộp lệ phí gửi đơn yêu cầu, và lệ phí cho yêu cầu Tòa án hủy quyết định trọng tài là 500.000 đồng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.9914
+  a) Đối tượng nộp lệ phí phải nộp đủ một lần số tiền lệ phí quy định tại điểm 1 mục này khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài hoặc khi gửi đơn yêu cầu Tòa án chỉ định trọng tài viê...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.8456
+  thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động
+chi nhánh trung tâm trọng tài; - Cơ quan thu lệ
+phí toà án liên quan đến trọng tài là Toà án nơi đối tượng nộp lệ phí gửi đơn
+yêu cầu Tòa án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.8064
+  trọng tài
+ 200.000
+ Đăng ký hoạt động
+chi nhánh
+ 100.000
+ II. LỆ PHÍ TÒA ÁN
+LIÊN QUAN ĐẾN TRỌNG TÀI Yêu cầu Tòa án
+chỉ định trọng tài viên, thay đổi trọng tài viên
+ 100.000
+ Yêu cầu Tòa án
+xem xét lại quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm
+quyền giải quyết vụ tranh chấp c...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.7239
+  2. Tổ chức, cá
+nhân yêu cầu Toà án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm quyền giải
+quyết vụ tranh chấp của hội đồng trọng tài, áp dụng, thay đổi, hủy bỏ biện pháp
+khẩn cấp tạm thời, hủy quyết định trọng tài, ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.6153
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+======================================================================
+CÂU HỎI 16: Toàn bộ số tiền lệ phí cấp phép hoạt động trung tâm trọng tài thu được sẽ được cơ quan thu xử lý như thế nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Cơ quan thu lệ phí cấp phép hoạt động trung tâm trọng tài sẽ nộp toàn bộ số tiền lệ phí thu được vào ngân sách nhà nước, hạch toán vào chương, loại, khoản tương ứng, mục 047, tiểu mục 29 của mục lục ngân sách nhà nước hiện hành.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.9643
+  lệ phí theo
+đúng quy định hiện hành của Bộ Tài chính về phát hành, quản lý, sử dụng ấn chỉ
+thuế. c) Lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài và lệ phí toà án liên quan đến
+trọng tài là khoản thu thuộc ngâ...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.9098
+  dụng như sau: - Cơ quan thu lệ
+phí nộp toàn bộ số tiền phí thu được vào ngân sách nhà nước như sau: + Đối với lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài hạch toán vào chương, loại, khoản
+tương ứng, mục 047,...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.8999
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.7746
+  hành. - Kinh phí cho hoạt
+động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm. d) Việc lập, chấp
+hành, kế toán, quyết toán số thu, chi lệ phí cấp phép, thay đổi nội dung giấy
+phép, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh của
+trung tâm trọng tài và lệ phí ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.6682
+  II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ
+ 1. Mức thu: Căn cứ quy định tại
+Điều 13 và Điều 14 Nghị định số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy
+định chi tiết thi hành một số điều của Pháp lệnh Trọng tài thương mại, mức thu
+lệ phí cấp phép, thay đổi nội dung giấy phép, đăng k...
+
+======================================================================
+CÂU HỎI 17: Lệ phí tòa án liên quan đến trọng tài được hạch toán vào mục và tiểu mục nào của mục lục ngân sách nhà nước hiện hành?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin được cung cấp trong đoạn văn bản số 1, lệ phí tòa án liên quan đến trọng tài được hạch toán vào chương, loại, khoản tương ứng, mục 045, tiểu mục 07 của mục lục ngân sách nhà nước hiện hành.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 1.0000
+  dụng như sau: - Cơ quan thu lệ
+phí nộp toàn bộ số tiền phí thu được vào ngân sách nhà nước như sau: + Đối với lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài hạch toán vào chương, loại, khoản
+tương ứng, mục 047,...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.4737
+  TÀI, ĐĂNG
+KÝ HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI VÀ LỆ PHÍ TOÀ ÁN LIÊN QUAN ĐẾN
+TRỌNG TÀI Căn cứ Nghị định
+số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy định chi tiết thi hành một số
+điều của Pháp lệnh Trọng tài thương mại; Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03/6/2002 của Chính phủ
+...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.4507
+  hành. - Kinh phí cho hoạt
+động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm. d) Việc lập, chấp
+hành, kế toán, quyết toán số thu, chi lệ phí cấp phép, thay đổi nội dung giấy
+phép, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh của
+trung tâm trọng tài và lệ phí ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.4344
+  lệ phí theo
+đúng quy định hiện hành của Bộ Tài chính về phát hành, quản lý, sử dụng ấn chỉ
+thuế. c) Lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài và lệ phí toà án liên quan đến
+trọng tài là khoản thu thuộc ngâ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.4245
+  trọng tài
+ 200.000
+ Đăng ký hoạt động
+chi nhánh
+ 100.000
+ II. LỆ PHÍ TÒA ÁN
+LIÊN QUAN ĐẾN TRỌNG TÀI Yêu cầu Tòa án
+chỉ định trọng tài viên, thay đổi trọng tài viên
+ 100.000
+ Yêu cầu Tòa án
+xem xét lại quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm
+quyền giải quyết vụ tranh chấp c...
+
+======================================================================
+CÂU HỎI 18: Phí gia hạn giấy phép hoạt động của trung tâm trọng tài sau 5 năm là bao nhiêu theo Thông tư 01/2005/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề phí gia hạn giấy phép hoạt động của trung tâm trọng tài sau 5 năm.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.7772
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.7512
+  II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ
+ 1. Mức thu: Căn cứ quy định tại
+Điều 13 và Điều 14 Nghị định số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy
+định chi tiết thi hành một số điều của Pháp lệnh Trọng tài thương mại, mức thu
+lệ phí cấp phép, thay đổi nội dung giấy phép, đăng k...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.7479
+  1. Tổ chức, cá
+nhân khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập,
+đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng
+tài phải nộp lệ phí cấp giấy phép thành lập, đăng ký hoạt động....
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.6997
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.6986
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+======================================================================
+CÂU HỎI 19: Lệ phí cấp chứng chỉ hành nghề cho trọng tài viên quốc tế là bao nhiêu theo Thông tư 01/2005/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.6000
+  II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ
+ 1. Mức thu: Căn cứ quy định tại
+Điều 13 và Điều 14 Nghị định số 25/2004/NĐ-CP ngày 15/01/2004 của Chính phủ quy
+định chi tiết thi hành một số điều của Pháp lệnh Trọng tài thương mại, mức thu
+lệ phí cấp phép, thay đổi nội dung giấy phép, đăng k...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.5680
+  trọng tài
+ 200.000
+ Đăng ký hoạt động
+chi nhánh
+ 100.000
+ II. LỆ PHÍ TÒA ÁN
+LIÊN QUAN ĐẾN TRỌNG TÀI Yêu cầu Tòa án
+chỉ định trọng tài viên, thay đổi trọng tài viên
+ 100.000
+ Yêu cầu Tòa án
+xem xét lại quyết định của hội đồng trọng tài về thỏa thuận trọng tài, về thẩm
+quyền giải quyết vụ tranh chấp c...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.5382
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.5286
+  và lệ phí toà án liên
+quan đến trọng tài được quy định như sau: STT
+ Lệ phí
+ Mức thu
+ (đồng)
+ I. LỆ PHÍ CẤP PHÉP,
+THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG KÝ HOẠT ĐỘNG TRUNG TÂM TRỌNG TÀI, ĐĂNG KÝ
+HOẠT ĐỘNG CHI NHÁNH CỦA TRUNG TÂM TRỌNG TÀI
+ Cấp giấy phép
+thành lập trung tâm trọng tài
+ 500.000
+ Thay đổi nộ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.4584
+  a) Đối tượng nộp lệ phí phải nộp đủ một lần số tiền lệ phí quy định tại điểm 1 mục này khi nộp hồ sơ đề nghị thành lập, thay đổi nội dung giấy phép thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh trung tâm trọng tài hoặc khi gửi đơn yêu cầu Tòa án chỉ định trọng tài viê...
+
+======================================================================
+CÂU HỎI 20: Vì cơ quan thu lệ phí phải nộp toàn bộ số tiền lệ phí trọng tài vào ngân sách, vậy kinh phí cho hoạt động thu lệ phí của họ được lấy từ đâu?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin trong đoạn văn bản [Đoạn 3], kinh phí cho hoạt động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2005_TT-BTC.txt | Score: 0.9606
+  dụng như sau: - Cơ quan thu lệ
+phí nộp toàn bộ số tiền phí thu được vào ngân sách nhà nước như sau: + Đối với lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài hạch toán vào chương, loại, khoản
+tương ứng, mục 047,...
+
+  [2] Source: 01_2005_TT-BTC.txt | Score: 0.9415
+  lệ phí theo
+đúng quy định hiện hành của Bộ Tài chính về phát hành, quản lý, sử dụng ấn chỉ
+thuế. c) Lệ phí cấp
+phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng tài, đăng
+ký hoạt động chi nhánh của trung tâm trọng tài và lệ phí toà án liên quan đến
+trọng tài là khoản thu thuộc ngâ...
+
+  [3] Source: 01_2005_TT-BTC.txt | Score: 0.7008
+  hành. - Kinh phí cho hoạt
+động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm. d) Việc lập, chấp
+hành, kế toán, quyết toán số thu, chi lệ phí cấp phép, thay đổi nội dung giấy
+phép, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động chi nhánh của
+trung tâm trọng tài và lệ phí ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.4278
+  thời, hủy quyết định trọng tài, kháng cáo quyết định của Tòa án. b) Cơ quan thu lệ
+phí: - Cơ quan thu lệ
+phí cấp phép, thay đổi nội dung giấy phép, đăng ký hoạt động trung tâm trọng
+tài, đăng ký hoạt động chi nhánh của trung tâm trọng tài là cơ quan có thẩm quyền
+cấp giấy phép thành lập, đăng ký hoạ...
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.3455
+  thành lập, đăng ký hoạt động trung tâm trọng tài, đăng ký hoạt động
+chi nhánh trung tâm trọng tài; - Cơ quan thu lệ
+phí toà án liên quan đến trọng tài là Toà án nơi đối tượng nộp lệ phí gửi đơn
+yêu cầu Tòa án chỉ định trọng tài viên, thay đổi trọng tài viên, xem xét lại
+quyết định của hội đồng trọng...
+
+======================================================================
+CÂU HỎI 21: Theo Thông tư 01/2000/TT-UBCK1, những tổ chức nào được phép thu phí dịch vụ chứng khoán đối với khách hàng?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo Thông tư 01/2000/TT-UBCK1, các tổ chức kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+- Công ty quản lý quỹ đầu tư;
+- Tổ chức lưu ký và ngân hàng giám sát bảo quản.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.8360
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.7663
+  UỶ
+BAN CHỨNG KHOÁN NHÀ NƯỚC
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2000/TT-UBCK1
+ Hà
+Nội, ngày 17 tháng 4 năm 2000
+ THÔNG TƯ
+ CỦA UỶ BAN CHỨNG KHOÁN NHÀ NƯỚC SỐ 01/2000/TT-UBCK1 NGÀY 17
+THÁNG 4 NĂM 2000 HƯỚNG DẪN TẠM THỜI CHẾ ĐỘ THU PHÍ ĐỐI VỚI KHÁCH HÀNG CỦA CÁC TỔ...
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.6421
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.6083
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.4799
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+======================================================================
+CÂU HỎI 22: Mức phí bảo lãnh phát hành chứng khoán tối đa được quy định là bao nhiêu theo Thông tư 01/2000/TT-UBCK1?
+======================================================================
+
+📝 TRẢ LỜI:
+Mức phí bảo lãnh phát hành chứng khoán tối đa được quy định là tối đa không quá 3% tổng trị giá bảo lãnh phát hành theo Thông tư 01/2000/TT-UBCK1.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.8975
+  2.1- Phí bảo lãnh phát hành: tối
+đa không quá 3% tổng trị giá bảo lãnh phát hành;...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.7455
+  UỶ
+BAN CHỨNG KHOÁN NHÀ NƯỚC
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2000/TT-UBCK1
+ Hà
+Nội, ngày 17 tháng 4 năm 2000
+ THÔNG TƯ
+ CỦA UỶ BAN CHỨNG KHOÁN NHÀ NƯỚC SỐ 01/2000/TT-UBCK1 NGÀY 17
+THÁNG 4 NĂM 2000 HƯỚNG DẪN TẠM THỜI CHẾ ĐỘ THU PHÍ ĐỐI VỚI KHÁCH HÀNG CỦA CÁC TỔ...
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.5367
+  2.8- Phí đại diện người sở hữu
+trái phiếu: Mức thu thoả thuận giữa tổ chức phát hành và đại diện người sở hữu
+trái phiếu, nhưng tối đa không quá 0,1% tổng trị giá trái phiếu phát hành.
+
+Các tổ chức kinh doanh, dịch vụ
+chứng khoán xác định và công bố công khai mức phí, đồng gửi cho Uỷ ban Chứng
+khoán...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.3494
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.2810
+  2.4- Phí quản lý danh mục đầu
+tư: tối đa không quá 2% năm/trị giá vốn uỷ thác bình quân....
+
+======================================================================
+CÂU HỎI 23: Tình huống: Một công ty chứng khoán thu phí môi giới giao dịch trái phiếu của khách hàng với mức 0,8% trị giá giao dịch.
+
+Câu hỏi: Hành động này có vi phạm quy định tại Thông tư 01/2000/TT-UBCK1 không? Vì sao?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo đoạn văn bản 2.2 trong Thông tư 01/2000/TT-UBCK1, mức phí dịch vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng đối với trái phiếu là tối đa không quá 0,5% trị giá giao dịch.
+
+Trong tình huống trên, công ty chứng khoán thu phí môi giới giao dịch trái phiếu với mức 0,8% trị giá giao dịch, vượt quá mức tối đa cho phép là 0,5%.
+
+Do đó, hành động này vi phạm quy định tại Thông tư 01/2000/TT-UBCK1.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.9500
+  2.2- Phí dịch
+vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng:
+
++ Cổ phiếu, Chứng chỉ quỹ đầu
+tư: tối đa không quá 0,75% trị giá giao dịch;
+
++ Trái phiếu: tối đa không quá
+0,5% trị giá giao dịch....
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.7655
+  2.8- Phí đại diện người sở hữu
+trái phiếu: Mức thu thoả thuận giữa tổ chức phát hành và đại diện người sở hữu
+trái phiếu, nhưng tối đa không quá 0,1% tổng trị giá trái phiếu phát hành.
+
+Các tổ chức kinh doanh, dịch vụ
+chứng khoán xác định và công bố công khai mức phí, đồng gửi cho Uỷ ban Chứng
+khoán...
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.5423
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.4672
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.4557
+  UỶ
+BAN CHỨNG KHOÁN NHÀ NƯỚC
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2000/TT-UBCK1
+ Hà
+Nội, ngày 17 tháng 4 năm 2000
+ THÔNG TƯ
+ CỦA UỶ BAN CHỨNG KHOÁN NHÀ NƯỚC SỐ 01/2000/TT-UBCK1 NGÀY 17
+THÁNG 4 NĂM 2000 HƯỚNG DẪN TẠM THỜI CHẾ ĐỘ THU PHÍ ĐỐI VỚI KHÁCH HÀNG CỦA CÁC TỔ...
+
+======================================================================
+CÂU HỎI 24: Tình huống: Một nhà đầu tư nước ngoài thanh toán phí dịch vụ chứng khoán bằng ngoại tệ (USD) tại một công ty chứng khoán ở Việt Nam.
+
+Câu hỏi: Tỷ giá quy đổi từ USD sang VNĐ để thanh toán được xác định như thế nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin trong đoạn văn bản 1, tỷ giá quy đổi từ USD sang VNĐ để thanh toán phí dịch vụ chứng khoán được thực hiện theo tỷ giá trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước công bố tại thời điểm thu.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 1.0000
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.3530
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.3395
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.3308
+  2.7- Phí dịch vụ lưu ký chứng
+khoán đối với khách hàng của tổ chức lưu ký: Mức thu được tính toán dựa trên cơ
+sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thoả
+thuận giữa khách hàng và tổ chức lưu ký;...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.3062
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+======================================================================
+CÂU HỎI 25: Mức thu phí đại diện người sở hữu trái phiếu được tính tối đa là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Mức thu phí đại diện người sở hữu trái phiếu được tính tối đa là 0,1% tổng trị giá trái phiếu phát hành.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 1.0000
+  2.8- Phí đại diện người sở hữu
+trái phiếu: Mức thu thoả thuận giữa tổ chức phát hành và đại diện người sở hữu
+trái phiếu, nhưng tối đa không quá 0,1% tổng trị giá trái phiếu phát hành.
+
+Các tổ chức kinh doanh, dịch vụ
+chứng khoán xác định và công bố công khai mức phí, đồng gửi cho Uỷ ban Chứng
+khoán...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.2734
+  2.2- Phí dịch
+vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng:
+
++ Cổ phiếu, Chứng chỉ quỹ đầu
+tư: tối đa không quá 0,75% trị giá giao dịch;
+
++ Trái phiếu: tối đa không quá
+0,5% trị giá giao dịch....
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.1565
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.0985
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.0808
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+======================================================================
+CÂU HỎI 26: Phí dịch vụ lưu ký chứng khoán đối với khách hàng được tính dựa trên những yếu tố nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Phí dịch vụ lưu ký chứng khoán đối với khách hàng được tính dựa trên cơ sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thỏa thuận giữa khách hàng và tổ chức lưu ký.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 1.0000
+  2.7- Phí dịch vụ lưu ký chứng
+khoán đối với khách hàng của tổ chức lưu ký: Mức thu được tính toán dựa trên cơ
+sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thoả
+thuận giữa khách hàng và tổ chức lưu ký;...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.5916
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.5218
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.4969
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.4949
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+======================================================================
+CÂU HỎI 27: Khách hàng trong nước bắt buộc phải thanh toán phí dịch vụ chứng khoán bằng loại tiền nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên đoạn văn bản 1, khách hàng trong nước được thống nhất thu phí bằng Đồng Việt Nam.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 1.0000
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.7757
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.6774
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.6404
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.5736
+  2.7- Phí dịch vụ lưu ký chứng
+khoán đối với khách hàng của tổ chức lưu ký: Mức thu được tính toán dựa trên cơ
+sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thoả
+thuận giữa khách hàng và tổ chức lưu ký;...
+
+======================================================================
+CÂU HỎI 28: Theo Thông tư 01/2000/TT-UBCK1, mức phí dịch vụ tư vấn đầu tư qua nền tảng trực tuyến tối đa là bao nhiêu tiền mỗi tháng?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên văn bản được cung cấp, mức phí dịch vụ tư vấn đầu tư và cung cấp thông tin không có mức tối đa cụ thể, mà được quy định là "Mức thu theo thoả thuận giữa khách hàng và tổ chức cung cấp dịch vụ" (Đoạn 2). Do đó, văn bản không đề cập đến mức phí dịch vụ tư vấn đầu tư qua nền tảng trực tuyến tối đa là bao nhiêu tiền mỗi tháng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.8041
+  UỶ
+BAN CHỨNG KHOÁN NHÀ NƯỚC
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2000/TT-UBCK1
+ Hà
+Nội, ngày 17 tháng 4 năm 2000
+ THÔNG TƯ
+ CỦA UỶ BAN CHỨNG KHOÁN NHÀ NƯỚC SỐ 01/2000/TT-UBCK1 NGÀY 17
+THÁNG 4 NĂM 2000 HƯỚNG DẪN TẠM THỜI CHẾ ĐỘ THU PHÍ ĐỐI VỚI KHÁCH HÀNG CỦA CÁC TỔ...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.6540
+  2.3- Phí dịch vụ tư vấn đầu tư
+và cung cấp thông tin: Mức thu theo thoả thuận giữa khách hàng và tổ chức cung
+cấp dịch vụ....
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.6257
+  2.4- Phí quản lý danh mục đầu
+tư: tối đa không quá 2% năm/trị giá vốn uỷ thác bình quân....
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.4886
+  2.2- Phí dịch
+vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng:
+
++ Cổ phiếu, Chứng chỉ quỹ đầu
+tư: tối đa không quá 0,75% trị giá giao dịch;
+
++ Trái phiếu: tối đa không quá
+0,5% trị giá giao dịch....
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.3818
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+======================================================================
+CÂU HỎI 29: Tổ chức lưu ký chứng khoán có bị phạt nếu không nộp báo cáo thu phí hàng tuần cho Ủy ban Chứng khoán Nhà nước không?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.9684
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.9525
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.8600
+  2.7- Phí dịch vụ lưu ký chứng
+khoán đối với khách hàng của tổ chức lưu ký: Mức thu được tính toán dựa trên cơ
+sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thoả
+thuận giữa khách hàng và tổ chức lưu ký;...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.6747
+  5. Thông tư này
+có hiệu lực sau 15 ngày kể từ ngày ký ban hành.
+
+Các tổ chức kinh doanh, dịch vụ
+chứng khoán chịu trách nhiệm thực hiện thông tư này.
+
+Trong quá trình thực hiện nếu có
+khó khăn, vướng mắc đề nghị các đơn vị phản ánh kịp thời về Uỷ ban Chứng khoán
+Nhà nước để có hướng dẫn giải quyết c...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.6179
+  4. Các công ty
+kinh doanh, dịch vụ chứng khoán phải hạch toán đầy đủ toàn bộ khoản phí thu được
+trong sổ sách kế toán theo chế độ quản lý tài chính và chế độ kế toán quy định
+đối với công ty chứng khoán....
+
+======================================================================
+CÂU HỎI 30: Các công ty kinh doanh chứng khoán phải xử lý như thế nào đối với các khoản phí thu được từ khách hàng?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên đoạn văn bản được cung cấp tại đoạn 2, các công ty kinh doanh chứng khoán phải hạch toán đầy đủ toàn bộ khoản phí thu được trong sổ sách kế toán theo chế độ quản lý tài chính và chế độ kế toán quy định đối với công ty chứng khoán.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2000_TT-UBCK1.txt | Score: 0.9850
+  1. Các tổ chức
+kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+
+- Công ty chứng khoán;
+
+- Công ty quản lý quỹ đầu tư;
+
+- Tổ chức lưu ký và ngân hàng
+giám sát bảo quản....
+
+  [2] Source: 01_2000_TT-UBCK1.txt | Score: 0.9229
+  4. Các công ty
+kinh doanh, dịch vụ chứng khoán phải hạch toán đầy đủ toàn bộ khoản phí thu được
+trong sổ sách kế toán theo chế độ quản lý tài chính và chế độ kế toán quy định
+đối với công ty chứng khoán....
+
+  [3] Source: 01_2000_TT-UBCK1.txt | Score: 0.8602
+  KHÁCH HÀNG CỦA CÁC TỔ
+CHỨC KINH DOANH, DỊCH VỤ CHỨNG KHOÁN
+ Thực hiện Nghị định số
+ 48/1998/NĐ-CP ngày 11 tháng 7 năm 1998 của Chính phủ về Chứng khoán và thị trường chứng
+khoán, sau khi thoả thuận với Bộ Tài chính, Uỷ ban Chứng khoán Nhà nước hướng dẫn
+chế độ thu phí đối với khách hàng của các tổ c...
+
+  [4] Source: 01_2000_TT-UBCK1.txt | Score: 0.7695
+  3. Tổ chức thu:
+Các tổ chức kinh doanh, dịch vụ chứng khoán trực tiếp thu phí của khách hàng và
+được thực hiện như sau:
+
+- Đối với khách hàng trong nước
+được thống nhất thu bằng Đồng Việt Nam.
+
+- Đối với khách hàng nước ngoài
+thu bằng Đồng Việt Nam hoặc ngoại tệ (USD).
+
+- Trường hợp thu bằng ngoại t...
+
+  [5] Source: 01_2000_TT-UBCK1.txt | Score: 0.6887
+  2. Đối tượng và
+mức phí thu cụ thể do các tổ chức kinh doanh, dịch vụ quy định hoặc do các tổ
+chức kinh doanh, dịch vụ chứng khoán thoả thuận với khách hàng trên cơ sở mức
+phí tối đa do Uỷ ban Chứng khoán Nhà nước quy định tại Thông tư này. Cụ thể như
+sau:...
+
+======================================================================
+CÂU HỎI 31: Theo Thông tư 01/2013/TT-BTC, khi nộp hồ sơ hợp pháp hoá lãnh sự tại Bộ Ngoại giao, cơ quan thu được trích lại bao nhiêu % số tiền lệ phí?
+======================================================================
+
+📝 TRẢ LỜI:
+Khi nộp hồ sơ hợp pháp hoá lãnh sự tại Bộ Ngoại giao, cơ quan thu được trích lại 30% số tiền lệ phí.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 1.0000
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.7192
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.7192
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.6094
+  ngân sách nhà nước để trang trải chi phí cho việc
+thực hiện công việc thu lệ phí tại Bộ Ngoại giao. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương:...
+
+======================================================================
+CÂU HỎI 32: Nếu hồ sơ chứng nhận lãnh sự được nộp tại cơ quan ngoại vụ cấp tỉnh, mức trích lại lệ phí được phân chia như thế nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản pháp luật được cung cấp, nếu hồ sơ chứng nhận lãnh sự được nộp tại cơ quan ngoại vụ cấp tỉnh, mức trích lại lệ phí được phân chia như sau:
+
+- Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% tiền thu lệ phí.
+- Chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc Trung ương 10% tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC_1.txt | Score: 0.8514
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [2] Source: 01_2013_TT-BTC.txt | Score: 0.8514
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.8212
+  ngân sách nhà nước để trang trải chi phí cho việc
+thực hiện công việc thu lệ phí tại Bộ Ngoại giao. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương:...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.8212
+  ngân sách nhà nước để trang trải chi phí cho việc
+thực hiện công việc thu lệ phí tại Bộ Ngoại giao. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương:...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.8037
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+======================================================================
+CÂU HỎI 33: Số tiền lệ phí hợp pháp hoá lãnh sự được trích để lại cho cơ quan thu nhằm mục đích chi trả cho các hoạt động nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản được cung cấp, số tiền lệ phí hợp pháp hoá lãnh sự được trích để lại cho cơ quan thu nhằm mục đích chi trả cho các hoạt động liên quan đến việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.9635
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.9635
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.9170
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.9170
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.7015
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+======================================================================
+CÂU HỎI 34: Tình huống: Cơ quan thu lệ phí chứng nhận lãnh sự năm nay có tổng số tiền thu lệ phí thấp hơn năm ngoái. Nguồn quỹ khen thưởng vẫn còn dư sau khi trả các chi phí hoạt động.
+
+Câu hỏi: Mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên trong trường hợp này là bao nhiêu theo Thông tư 01/2013/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin trong đoạn văn bản được cung cấp, cụ thể là đoạn 2 và đoạn 4, trong trường hợp cơ quan thu lệ phí chứng nhận lãnh sự năm nay có tổng số tiền thu lệ phí thấp hơn năm ngoái, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên được quy định như sau:
+
+"đ) Chi khen thưởng, phúc lợi cho cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3 (ba) tháng lương thực hiện nếu số thu năm nay cao hơn năm trước và tối đa bằng 2 (hai) tháng lương thực hiện nếu số thu năm nay thấp hơn hoặc bằng năm trước, sau khi đảm bảo các chi phí quy định tại tiết a, b, c và d điểm này."
+
+Do đó, trong trường hợp này, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên là 2 tháng lương thực hiện.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 1.0000
+  mua sắm thiết bị, công cụ
+làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
+cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
+trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
+(ba) tháng lương...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
+  mua sắm thiết bị, công cụ
+làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
+cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
+trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
+(ba) tháng lương...
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.3357
+  thấp hơn hoặc bằng năm trước,
+sau khi đảm bảo các chi phí quy định tại tiết a, b, c và d điểm này. Hàng năm, cơ quan thu lệ phí hợp
+pháp hoá, chứng nhận lãnh sự phải lập dự toán thu, chi gửi: cơ quan quản lý
+ngành, lĩnh vực cấp trên, cơ quan tài chính, cơ quan thuế cùng cấp, Kho bạc nhà
+nước nơi tổ ...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.3357
+  thấp hơn hoặc bằng năm trước,
+sau khi đảm bảo các chi phí quy định tại tiết a, b, c và d điểm này. Hàng năm, cơ quan thu lệ phí hợp
+pháp hoá, chứng nhận lãnh sự phải lập dự toán thu, chi gửi: cơ quan quản lý
+ngành, lĩnh vực cấp trên, cơ quan tài chính, cơ quan thuế cùng cấp, Kho bạc nhà
+nước nơi tổ ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.2038
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+======================================================================
+CÂU HỎI 35: Tình huống: Sau khi kết thúc năm tài chính, cơ quan ngoại vụ tỉnh A đã quyết toán đúng chế độ nhưng vẫn chưa chi hết số tiền lệ phí hợp pháp hóa lãnh sự được trích lại (phần 10%).
+
+Câu hỏi: Số tiền dư này sẽ bị thu hồi vào ngân sách nhà nước hay được xử lý thế nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản pháp luật được cung cấp, không có thông tin cụ thể về việc xử lý số tiền dư lệ phí hợp pháp hóa lãnh sự được trích lại (phần 10%) của cơ quan ngoại vụ tỉnh A sau khi quyết toán đúng chế độ.
+
+Tuy nhiên, theo đoạn 3 và đoạn 4, số tiền thu lệ phí hợp pháp hóa, chứng nhận lãnh sự còn lại (70%) phải trực tiếp nộp vào ngân sách nhà nước. Nhưng không có thông tin về việc xử lý số tiền dư được trích lại (phần 10%).
+
+Vì vậy, cần phải tham khảo thêm các quy định pháp luật khác để xác định cách xử lý số tiền dư này. Văn bản được cung cấp không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [2] Source: 01_2013_TT-BTC.txt | Score: 1.0000
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.6696
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.6696
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.6596
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+======================================================================
+CÂU HỎI 36: Theo Thông tư 01/2013/TT-BTC, phần lệ phí còn lại phải nộp trực tiếp vào ngân sách nhà nước là bao nhiêu phần trăm?
+======================================================================
+
+📝 TRẢ LỜI:
+Theo Thông tư 01/2013/TT-BTC, phần lệ phí còn lại phải nộp trực tiếp vào ngân sách nhà nước là 70%.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.8902
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.8902
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.7190
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.7190
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.5276
+  3. Tổ chức, cá nhân thuộc đối tượng
+nộp lệ phí và các cơ quan liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá
+nhân phản ánh kịp thời về Bộ Tài chính để xem xét, hướng dẫn./. Nơi nhận: - Văn phòng Trung ương Đảng; - Văn...
+
+======================================================================
+CÂU HỎI 37: Các khoản đóng góp theo quy định được phép chi từ nguồn lệ phí giữ lại (tính trên tiền lương) gồm những khoản nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Căn cứ vào các đoạn văn bản pháp luật được cung cấp, các khoản đóng góp theo quy định được phép chi từ nguồn lệ phí giữ lại (tính trên tiền lương) gồm:
+
+- Bảo hiểm y tế
+- Bảo hiểm xã hội
+- Công đoàn phí
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.6547
+  chi phí tiền lương cho cán bộ,
+công chức đã hưởng lương từ ngân sách nhà nước theo chế độ quy định; b) Chi phí phục vụ trực tiếp cho
+việc thực hiện công việc, dịch vụ và thu phí, lệ phí như: văn phòng phẩm, vật
+tư văn phòng, thông tin liên lạc, điện, nước, công tác phí (chi phí đi lại, tiền
+thuê chỗ...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.6547
+  chi phí tiền lương cho cán bộ,
+công chức đã hưởng lương từ ngân sách nhà nước theo chế độ quy định; b) Chi phí phục vụ trực tiếp cho
+việc thực hiện công việc, dịch vụ và thu phí, lệ phí như: văn phòng phẩm, vật
+tư văn phòng, thông tin liên lạc, điện, nước, công tác phí (chi phí đi lại, tiền
+thuê chỗ...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.4990
+  Bộ Ngoại
+giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương. Nội dung chi cụ thể như sau: a) Chi thanh toán cho cá nhân trực
+tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí: tiền lương, tiền công, phụ
+cấp lương, các khoản đóng góp theo quy định được tính trên tiền lương (bảo hiểm
+y tế, ...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.4990
+  Bộ Ngoại
+giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương. Nội dung chi cụ thể như sau: a) Chi thanh toán cho cá nhân trực
+tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí: tiền lương, tiền công, phụ
+cấp lương, các khoản đóng góp theo quy định được tính trên tiền lương (bảo hiểm
+y tế, ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.4342
+  mua sắm thiết bị, công cụ
+làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
+cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
+trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
+(ba) tháng lương...
+
+======================================================================
+CÂU HỎI 38: Thông tư 01/2013/TT-BTC quy định thời hạn giải quyết hồ sơ hợp pháp hóa lãnh sự đối với tài liệu y tế là tối đa mấy ngày làm việc?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.9117
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.9117
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.5780
+  1. Sửa đổi, bổ sung
+ điểm 2 mục II Thông tư số 36/2004/TT-BTC
+ như sau: “Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự có trách nhiệm thực hiện chế độ tài chính, kế toán về lệ phí
+hợp pháp hoá, chứng nhận lãnh sự theo hướng dẫn tại Thông tư số 63/2002/TT-BTC
+ngày 24/7/2002 và Thông tư số 45/20...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.5780
+  1. Sửa đổi, bổ sung
+ điểm 2 mục II Thông tư số 36/2004/TT-BTC
+ như sau: “Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự có trách nhiệm thực hiện chế độ tài chính, kế toán về lệ phí
+hợp pháp hoá, chứng nhận lãnh sự theo hướng dẫn tại Thông tư số 63/2002/TT-BTC
+ngày 24/7/2002 và Thông tư số 45/20...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.5486
+  2. Các nội dung khác liên quan đến
+lệ phí hợp pháp hoá, chứng nhận lãnh sự không được đề cập trong Thông tư này vẫn
+được thực hiện theo hướng dẫn tại Thông tư số 36/2004/TT-BTC ngày 26/4/2004 và
+Thông tư số 98/2011/TT-BTC ngày 5/7/2011 sửa đổi, bổ sung Thông tư số
+36/2004/TT-BTC ngày 26/4/2004 của B...
+
+======================================================================
+CÂU HỎI 39: Trẻ em dưới 14 tuổi có được miễn hoàn toàn lệ phí chứng nhận lãnh sự theo Thông tư 01/2013/TT-BTC không?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.8445
+  2. Các nội dung khác liên quan đến
+lệ phí hợp pháp hoá, chứng nhận lãnh sự không được đề cập trong Thông tư này vẫn
+được thực hiện theo hướng dẫn tại Thông tư số 36/2004/TT-BTC ngày 26/4/2004 và
+Thông tư số 98/2011/TT-BTC ngày 5/7/2011 sửa đổi, bổ sung Thông tư số
+36/2004/TT-BTC ngày 26/4/2004 của B...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.8445
+  2. Các nội dung khác liên quan đến
+lệ phí hợp pháp hoá, chứng nhận lãnh sự không được đề cập trong Thông tư này vẫn
+được thực hiện theo hướng dẫn tại Thông tư số 36/2004/TT-BTC ngày 26/4/2004 và
+Thông tư số 98/2011/TT-BTC ngày 5/7/2011 sửa đổi, bổ sung Thông tư số
+36/2004/TT-BTC ngày 26/4/2004 của B...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.6310
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.6310
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.5238
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+======================================================================
+CÂU HỎI 40: Nguồn tiền lệ phí hợp pháp hóa lãnh sự được trích lại có được dùng để trả lương cho tất cả cán bộ làm việc tại cơ quan thu lệ phí không?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản được cung cấp, không có thông tin cụ thể về việc nguồn tiền lệ phí hợp pháp hóa lãnh sự được trích lại có được dùng để trả lương cho tất cả cán bộ làm việc tại cơ quan thu lệ phí hay không. Văn bản chỉ đề cập đến việc cơ quan thu lệ phí được trích để lại một phần tiền thu lệ phí để trang trải chi phí cho việc thực hiện công việc thu lệ phí, nhưng không nêu rõ chi tiết về việc sử dụng số tiền này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.8388
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.8388
+  2. Sửa đổi, bổ sung
+ điểm 3, điểm 4 và điểm 5 mục II Thông tư số
+36/2004/TT-BTC
+ như sau: “3. Đối với hồ sơ đề nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
+thu lệ phí tr...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.7637
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.7637
+  4. Số tiền thu lệ phí hợp pháp
+hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải trực tiếp nộp
+vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
+ngân sách nhà nước hiện hành”....
+
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.7331
+  nghị hợp pháp
+hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
+ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
+tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
+Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
+
+======================================================================
+CÂU HỎI 41: Thông tư 01/2003/TT-BTC áp dụng để thu phí sử dụng đường bộ đối với nhóm phương tiện nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Thông tư 01/2003/TT-BTC áp dụng để thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.5453
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.4377
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.3897
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.3897
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+======================================================================
+CÂU HỎI 42: Mệnh giá vé năm thu phí đường bộ đối với xe ô tô con quân sự mức 2 theo Thông tư 01/2003/TT-BTC là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Mệnh giá vé năm thu phí đường bộ đối với xe ô tô con quân sự mức 2 là 1.000.000 đồng/vé/năm.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.5910
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.5804
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.1736
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.1736
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+======================================================================
+CÂU HỎI 43: Tình huống: Bộ Quốc phòng sở hữu một xe ô tô vận tải quân sự mang biển đỏ chữ trắng dập chìm, thuộc danh mục chịu phí mức 2.
+
+Câu hỏi: Số tiền phí sử dụng đường bộ toàn quốc phải nộp trong 1 năm cho chiếc xe này là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên thông tin trong đoạn văn bản 1, xe ô tô vận tải quân sự thuộc mức 2 có mức phí sử dụng đường bộ toàn quốc là 1.500.000 đồng/vé/năm. Do đó, số tiền phí sử dụng đường bộ toàn quốc phải nộp trong 1 năm cho chiếc xe này là 1.500.000 đồng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.4431
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.1823
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.0730
+  3. Tổ chức, cá nhân thuộc đối tượng
+nộp lệ phí và các cơ quan liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá
+nhân phản ánh kịp thời về Bộ Tài chính để xem xét, hướng dẫn./. Nơi nhận: - Văn phòng Trung ương Đảng; - Văn...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.0730
+  3. Tổ chức, cá nhân thuộc đối tượng
+nộp lệ phí và các cơ quan liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá
+nhân phản ánh kịp thời về Bộ Tài chính để xem xét, hướng dẫn./. Nơi nhận: - Văn phòng Trung ương Đảng; - Văn...
+
+======================================================================
+CÂU HỎI 44: Thông tư 01/2003/TT-BTC ra đời nhằm mục đích gì đối với các văn bản pháp luật trước đó?
+======================================================================
+
+📝 TRẢ LỜI:
+Thông tư 01/2003/TT-BTC ra đời nhằm sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.5873
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.5873
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.4897
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.4067
+  1. Sửa đổi, bổ sung
+ điểm 2 mục II Thông tư số 36/2004/TT-BTC
+ như sau: “Cơ quan thu lệ phí hợp pháp hoá,
+chứng nhận lãnh sự có trách nhiệm thực hiện chế độ tài chính, kế toán về lệ phí
+hợp pháp hoá, chứng nhận lãnh sự theo hướng dẫn tại Thông tư số 63/2002/TT-BTC
+ngày 24/7/2002 và Thông tư số 45/20...
+
+======================================================================
+CÂU HỎI 45: Mức phí đường bộ (vé năm) cho xe ô tô con quân sự mức 1 là bao nhiêu?
+======================================================================
+
+📝 TRẢ LỜI:
+Mức phí đường bộ (vé năm) cho xe ô tô con quân sự mức 1 là 2.000.000 đồng/vé/năm.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.5215
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.3779
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [4] Source: 01_1999_TT-BXD.txt | Score: 0.0726
+  mức. Theo nguyên tắc này chi phí nhân
+công trong đơn giá xây dựng cơ bản được xác định như sau: - Đối với đơn giá của các tỉnh,
+thành phố trực thuộc Trung ương khoản chi phí nhân công được tính với mức lương
+tối thiểu là 144.000đ/tháng, cấp bậc tiền lương theo bảng lương A6 kèm theo Nghị
+định số 05/...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.0653
+  mua sắm thiết bị, công cụ
+làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
+cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
+trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
+(ba) tháng lương...
+
+======================================================================
+CÂU HỎI 46: Tình huống: Đơn vị quân đội A có 3 xe ô tô con quân sự (mức 1) và 2 xe ô tô vận tải quân sự (mức 1).
+
+Câu hỏi: Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện này là bao nhiêu theo Thông tư 01/2003/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A là:
+
+- 3 xe ô tô con quân sự (mức 1): 3 x 2.000.000 = 6.000.000 đồng
+- 2 xe ô tô vận tải quân sự (mức 1): 2 x 3.000.000 = 6.000.000 đồng
+
+Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện là: 6.000.000 + 6.000.000 = 12.000.000 đồng.
+
+Vậy, tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A là 12.000.000 đồng.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.5306
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.5057
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.1515
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.1450
+  mua sắm thiết bị, công cụ
+làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
+cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
+trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
+(ba) tháng lương...
+
+======================================================================
+CÂU HỎI 47: Thông tư 01/2003/TT-BTC của Bộ Tài chính có hiệu lực thi hành kể từ ngày nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Thông tư 01/2003/TT-BTC của Bộ Tài chính có hiệu lực thi hành kể từ ngày 01/3/2003.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 0.8378
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.7755
+  2. Thông tư này
+có hiệu lực thi hành từ ngày 1/3/2003.
+
+Trương
+Chí Trung
+
+(Đã
+ký)...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.6441
+  Điều 2.
+
+1.
+
+Thông tư
+này có hiệu lực thi hành kể từ ngày 01/3/2013....
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.6441
+  Điều 2.
+
+1.
+
+Thông tư
+này có hiệu lực thi hành kể từ ngày 01/3/2013....
+
+  [5] Source: 01_2005_TT-BTC.txt | Score: 0.5910
+  III. TỔ CHỨC THỰC HIỆN
+
+Thông tư này có hiệu
+lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Các vấn đề khác liên quan đến
+việc thu, nộp, quản lý và sử dụng lệ phí không đề cập tại Thông tư này được thực
+hiện theo hướng dẫn tại Thông tư số 63/2002/TT-BTC ngày 24/7/2002 của Bộ Tài
+chính hướng dẫn...
+
+======================================================================
+CÂU HỎI 48: Phí sử dụng đường bộ áp dụng đối với xe bọc thép, xe tăng của Bộ Quốc phòng được quy định là bao nhiêu theo Thông tư 01/2003/TT-BTC?
+======================================================================
+
+📝 TRẢ LỜI:
+Văn bản không đề cập đến vấn đề này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.9452
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+  [3] Source: 01_2003_TT-BTC.txt | Score: 0.8444
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.3030
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.3030
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+======================================================================
+CÂU HỎI 49: Xe công vụ của lực lượng Cảnh sát mang biển số xanh, dập chìm có được áp dụng mức thu phí theo Thông tư 01/2003/TT-BTC này không?
+======================================================================
+
+📝 TRẢ LỜI:
+Dựa trên các đoạn văn bản được cung cấp, Thông tư 01/2003/TT-BTC chỉ đề cập đến việc sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng, cụ thể là xe mang biển số nền màu đỏ, chữ và số màu trắng dập chìm. Không có thông tin nào đề cập đến việc áp dụng mức thu phí này đối với xe công vụ của lực lượng Cảnh sát mang biển số xanh, dập chìm. Do đó, Thông tư 01/2003/TT-BTC không áp dụng cho trường hợp này.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 1.0000
+  1. Sửa đổi mệnh
+giá vé thu phí đường bộ toàn quốc áp dụng đối với xe của Bộ Quốc phòng mang biển
+số nền màu đỏ, chữ và số màu trắng dập chìm, như sau:
+
+TT
+
+Loại phương tiện
+
+Mệnh giá vé năm (đồng/vé/năm)
+
+1
+
+Xe ô tô con quân sự
+
+- Mức 1:
+
+2.000.000
+
+- Mức 2:
+
+1.000.000
+
+2
+
+Xe ô tô vận tải quân sự
+
+-...
+
+  [2] Source: 01_2003_TT-BTC.txt | Score: 0.7140
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.3747
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.3747
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [5] Source: 01_2003_TT-BTC.txt | Score: 0.2969
+  ngày 03
+tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ
+phí; Sau khi có ý kiến của Bộ Quốc phòng, Bộ Tài chính hướng dẫn sửa đổi mức thu
+phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng quy định tại Thông tư
+số 109/2002/TT-BTC ngày 6/12/2002 của Bộ Tài chính nh...
+
+======================================================================
+CÂU HỎI 50: Thông tư 01/2003/TT-BTC được ban hành dựa trên ý kiến hiệp thương và căn cứ vào các cơ sở pháp lý nào?
+======================================================================
+
+📝 TRẢ LỜI:
+Thông tư 01/2003/TT-BTC được ban hành căn cứ vào Pháp lệnh phí và lệ phí số 38/2001/PL-UBTVQH10 ngày 28/8/2001 và Nghị định số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí.
+
+📚 CHUNKS ĐÃ TÌM (5):
+
+  [1] Source: 01_2003_TT-BTC.txt | Score: 0.9219
+  BỘ
+TÀI CHÍNH
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2003/TT-BTC
+ Hà
+Nội, ngày 07 tháng 1 năm 2003
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2003/TT-BTC NGÀY 7 THÁNG 1 NĂM 2003 VỀ
+VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QUÂN SỰ CỦA BỘ QUỐC PHÒNG
+ Căn cứ Pháp lện...
+
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.8587
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.8587
+  BỘ TÀI CHÍNH
+ --------
+ CỘNG HÒA XÃ
+HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ ---------------
+ Số: 01/2013/TT-BTC
+ Hà Nội, ngày
+02 tháng 01 năm 2013
+ THÔNG TƯ
+ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
+26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
+
+  [4] Source: 01_2005_TT-BTC.txt | Score: 0.5762
+  BỘ TÀI CHÍNH
+ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/2005/TT-BTC
+ Hà Nội, ngày 04 tháng 1 năm 2005
+ THÔNG TƯ
+ CỦA BỘ TÀI CHÍNH SỐ 01/2005/TT-BTC NGÀY 04
+THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
+PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
+
+  [5] Source: 01_1999_TT-BXD.txt | Score: 0.5304
+  BỘ
+XÂY DỰNG
+ CỘNG
+HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ Độc lập - Tự do - Hạnh phúc
+ Số: 01/1999/TT-BXD
+ Hà
+Nội, ngày 16 tháng 1 năm 1999
+ THÔNG TƯ
+ CỦA BỘ XÂY DỰNG SỐ 01/1999/TT-BXD NGÀY 16 THÁNG 10 NĂM 1999
+HƯỚNG DẪN LẬP DỰ TOÁN CÔNG TRÌNH XÂY DỰNG CƠ BẢN THEO LUẬT THUẾ GIÁ TRỊ GIA
+TĂNG VÀ THUẾ THU NHẬP ...
