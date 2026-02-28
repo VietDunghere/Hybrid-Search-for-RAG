@@ -4,7 +4,7 @@ CÂU HỎI 1: Theo Thông tư 01/1999/TT-BXD, giá trị dự toán xây lắp s
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên văn bản được cung cấp, giá trị dự toán xây lắp sau thuế của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế giá trị gia tăng đầu ra.
+Giá trị dự toán xây lắp sau thuế của công trình xây dựng bao gồm giá trị dự toán xây lắp trước thuế và khoản thuế giá trị gia tăng đầu ra.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -78,13 +78,11 @@ CÂU HỎI 2: Chi phí trực tiếp trong dự toán xây lắp trước thuế
 ======================================================================
 
 📝 TRẢ LỜI:
-Theo Thông tư 01/1999/TT-BXD, chi phí trực tiếp trong dự toán xây lắp trước thuế bao gồm 3 loại chi phí:
+Dựa trên các đoạn văn bản được cung cấp, đặc biệt là đoạn 3, chi phí trực tiếp trong dự toán xây lắp trước thuế bao gồm:
 
-1. Chi phí vật liệu (VL)
-2. Chi phí nhân công (NC)
-3. Chi phí máy thi công (M)
-
-Những chi phí này được xác định dựa trên cơ sở khối lượng xây lắp tính theo thiết kế được duyệt và đơn giá xây dựng cơ bản của công tác xây lắp tương ứng.
+1. Chi phí vật liệu
+2. Chi phí nhân công
+3. Chi phí sử dụng máy thi công
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -173,7 +171,7 @@ CÂU HỎI 3: Tại sao lại có sự chênh lệch vật liệu trong chi phí
 ======================================================================
 
 📝 TRẢ LỜI:
-Sự chênh lệch vật liệu trong chi phí dự toán theo Thông tư 01/1999/TT-BXD xảy ra do sự thay đổi giá cả vật liệu. Để xử lý phần chênh lệch này, cần căn cứ vào mức giá chưa có thuế giá trị gia tăng trong thông báo từng thời kỳ của cơ quan có thẩm quyền công bố và mức giá đã tính trong đơn giá xây dựng cơ bản để xác định phần chênh lệch và đưa trực tiếp vào chi phí vật liệu trong dự toán.
+Theo Thông tư 01/1999/TT-BXD, sự chênh lệch vật liệu trong chi phí dự toán xảy ra khi có sự thay đổi giá cả vật liệu. Để xử lý phần chênh lệch này, cần căn cứ vào mức giá chưa có thuế giá trị gia tăng trong thông báo từng thời kỳ của cơ quan có thẩm quyền công bố và mức giá đã tính trong đơn giá xây dựng cơ bản để xác định phần chênh lệch và đưa trực tiếp vào chi phí vật liệu trong dự toán.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -226,10 +224,12 @@ Câu hỏi: Việc áp dụng thuế giá trị gia tăng cho các khối lượ
 ======================================================================
 
 📝 TRẢ LỜI:
-Theo đoạn văn bản 2, đối với công trình xây dựng có chuyển tiếp từ năm trước sang năm 1999, việc áp dụng thuế giá trị gia tăng cho các khối lượng xây dựng hoàn thành trước và sau ngày 31/12/1998 được quy định như sau:
+Theo Thông tư 01/1999/TT-BXD, việc áp dụng thuế giá trị gia tăng cho các khối lượng xây dựng hoàn thành trước và sau ngày 31/12/1998 được quy định như sau:
 
 - Đối với khối lượng công trình, hạng mục công trình đã thực hiện đến ngày 31/12/1998 không tính thuế giá trị gia tăng.
-- Đối với khối lượng công trình, hạng mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng dẫn tại Thông tư này.
+- Đối với khối lượng công trình, hạng mục công trình thực hiện từ ngày 01/01/1999 thì được tính toán theo hướng dẫn tại thông tư này.
+
+Như vậy, thuế giá trị gia tăng chỉ được áp dụng cho các khối lượng xây dựng thực hiện từ ngày 01/01/1999 trở đi, còn các khối lượng xây dựng hoàn thành trước ngày 31/12/1998 sẽ không tính thuế giá trị gia tăng.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -279,7 +279,7 @@ CÂU HỎI 5: Định mức chi phí chung đối với công tác Lắp đặt 
 ======================================================================
 
 📝 TRẢ LỜI:
-Định mức chi phí chung đối với công tác Lắp đặt điện, nước, đường ống, máy công nghệ theo Phụ lục 2 Thông tư 01/1999/TT-BXD là 63,5%.
+Dựa trên văn bản được cung cấp, cụ thể là đoạn 4, định mức chi phí chung đối với công tác Lắp đặt điện, nước, đường ống, máy công nghệ theo Phụ lục 2 Thông tư 01/1999/TT-BXD là 63,5%.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -367,7 +367,9 @@ CÂU HỎI 6: Thu nhập chịu thuế tính trước đối với công trình 
 ======================================================================
 
 📝 TRẢ LỜI:
-Theo thông tin trong đoạn văn bản được cung cấp, cụ thể là tại Phụ lục số 2, không có quy định cụ thể về mức thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế. Tuy nhiên, dựa trên thông tin có trong Phụ lục số 2, chúng ta có thể thấy rằng mức thu nhập chịu thuế tính trước đối với các loại công trình khác nhau được quy định như sau:
+Văn bản không đề cập đến vấn đề này. Tuy nhiên, có thể tham khảo phụ lục số 2 để biết mức thu nhập chịu thuế tính trước đối với các loại công trình khác.
+
+Cụ thể, phụ lục số 2 quy định mức thu nhập chịu thuế tính trước đối với các loại công trình như sau:
 
 - Xây dựng công trình dân dụng thông thường: 5,5%
 - Xây dựng nhà bê tông tấm lớn, lắp dựng kết cấu thép: 5,5%
@@ -376,7 +378,7 @@ Theo thông tin trong đoạn văn bản được cung cấp, cụ thể là t�
 - Riêng XD đường hầm trong công trình thuỷ điện: 6,5%
 - Trạm thuỷ điện nhỏ: 5,5%
 
-Do không có quy định cụ thể về mức thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế, nên chúng ta không thể xác định chính xác mức thu nhập chịu thuế tính trước cho loại công trình này.
+Tuy nhiên, văn bản không đề cập đến mức thu nhập chịu thuế tính trước đối với công trình xây dựng sân bay quốc tế.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -444,7 +446,7 @@ CÂU HỎI 7: Thuế giá trị gia tăng đầu ra trong dự toán xây lắp 
 ======================================================================
 
 📝 TRẢ LỜI:
-Thuế giá trị gia tăng đầu ra trong dự toán xây lắp theo Thông tư 01/1999/TT-BXD có mục đích sử dụng là để trả số thuế giá trị gia tăng đầu vào mà doanh nghiệp xây dựng đã ứng trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng...
+Thuế giá trị gia tăng đầu ra trong dự toán xây lắp theo Thông tư 01/1999/TT-BXD có mục đích sử dụng để trả số thuế giá trị gia tăng đầu vào mà doanh nghiệp xây dựng đã ứng trước khi mua các loại vật tư, vật liệu, nhiên liệu, năng lượng...
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -496,7 +498,7 @@ CÂU HỎI 8: Dự toán chi phí thiết kế trước thuế được tính nh
 ======================================================================
 
 📝 TRẢ LỜI:
-Dự toán chi phí thiết kế trước thuế được tính bằng dự toán chi phí thiết kế tính theo bản giá thiết kế công trình xây dựng ban hành kèm theo Quyết định số 179/BXD-VKT ngày 17/7/1995 của Bộ Xây dựng, nhân với hệ số điều chỉnh K = 0,96.
+Dự toán chi phí thiết kế trước thuế bằng dự toán chi phí thiết kế tính theo quy định nhân với hệ số điều chỉnh K = 0,96.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -548,7 +550,7 @@ CÂU HỎI 9: Tiền trợ cấp ăn trưa hàng tháng cho công nhân xây l�
 ======================================================================
 
 📝 TRẢ LỜI:
-Văn bản không đề cập đến tiền trợ cấp ăn trưa hàng tháng cho công nhân xây lắp.
+Văn bản không đề cập đến vấn đề tiền trợ cấp ăn trưa hàng tháng cho công nhân xây lắp.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -601,7 +603,7 @@ Câu hỏi: Loại công trình nào phù hợp với các định mức này th
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin trong Phụ lục 2 của Thông tư 01/1999/TT-BXD, loại công trình phù hợp với định mức chi phí chung là 55,0% và thu nhập chịu thuế tính trước là 5,5% là công trình xây dựng công trình dân dụng thông thường.
+Dựa trên thông tin tại Phụ lục 2 của Thông tư 01/1999/TT-BXD, định mức chi phí chung là 55,0% và thu nhập chịu thuế tính trước là 5,5% phù hợp với loại công trình "Xây dựng công trình dân dụng thông thường" (được quy định tại mục 1 trong Phụ lục 2).
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -686,7 +688,7 @@ CÂU HỎI 11: Mức lệ phí cấp giấy phép thành lập trung tâm trọn
 ======================================================================
 
 📝 TRẢ LỜI:
-Mức lệ phí cấp giấy phép thành lập trung tâm trọng tài là 500.000 đồng, theo quy định tại mục I của đoạn văn bản II. MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ, Thông tư 01/2005/TT-BTC.
+Căn cứ vào đoạn 2, mức lệ phí cấp giấy phép thành lập trung tâm trọng tài là 500.000 đồng.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -796,7 +798,7 @@ Câu hỏi: Trung tâm trọng tài này sẽ phải nộp khoản lệ phí nà
 ======================================================================
 
 📝 TRẢ LỜI:
-Trung tâm trọng tài sẽ phải nộp lệ phí đăng ký hoạt động chi nhánh của trung tâm trọng tài. Mức thu là 100.000 đồng.
+Theo đoạn văn bản 2, khi trung tâm trọng tài muốn đăng ký hoạt động chi nhánh, sẽ phải nộp lệ phí với mức thu là 100.000 đồng.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -890,13 +892,11 @@ Câu hỏi: Ông B phải nộp lệ phí cho cơ quan nào và số tiền lệ
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản pháp luật được cung cấp, tôi trả lời như sau:
+Dựa trên các đoạn văn bản pháp luật được cung cấp, tôi sẽ trả lời câu hỏi như sau:
 
-Ông B phải nộp lệ phí cho Tòa án nơi ông gửi đơn yêu cầu hủy quyết định trọng tài.
+Ông B phải nộp lệ phí cho cơ quan thu lệ phí Tòa án liên quan đến trọng tài, đó là Tòa án nơi ông B gửi đơn yêu cầu Tòa án hủy quyết định trọng tài.
 
-Số tiền lệ phí mà ông B phải nộp là 500.000 đồng.
-
-Cơ sở pháp lý cho câu trả lời này là đoạn 2 và đoạn 3 của văn bản pháp luật, trong đó quy định rằng cơ quan thu lệ phí tòa án liên quan đến trọng tài là Tòa án nơi đối tượng nộp lệ phí gửi đơn yêu cầu, và lệ phí cho yêu cầu Tòa án hủy quyết định trọng tài là 500.000 đồng.
+Số tiền lệ phí mà ông B phải nộp là 500.000 đồng, theo quy định tại mục II. LỆ PHÍ TÒA ÁN LIÊN QUAN ĐẾN TRỌNG TÀI, điểm "Yêu cầu Tòa án hủy quyết định trọng tài" trong đoạn văn bản số 3.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -988,7 +988,7 @@ CÂU HỎI 17: Lệ phí tòa án liên quan đến trọng tài được hạch
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin được cung cấp trong đoạn văn bản số 1, lệ phí tòa án liên quan đến trọng tài được hạch toán vào chương, loại, khoản tương ứng, mục 045, tiểu mục 07 của mục lục ngân sách nhà nước hiện hành.
+Lệ phí tòa án liên quan đến trọng tài được hạch toán vào chương, loại, khoản tương ứng, mục 045, tiểu mục 07 của mục lục ngân sách nhà nước hiện hành.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1095,7 +1095,7 @@ CÂU HỎI 19: Lệ phí cấp chứng chỉ hành nghề cho trọng tài viên
 ======================================================================
 
 📝 TRẢ LỜI:
-Văn bản không đề cập đến vấn đề này.
+Văn bản không đề cập đến vấn đề lệ phí cấp chứng chỉ hành nghề cho trọng tài viên quốc tế.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1153,7 +1153,7 @@ CÂU HỎI 20: Vì cơ quan thu lệ phí phải nộp toàn bộ số tiền l�
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin trong đoạn văn bản [Đoạn 3], kinh phí cho hoạt động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm.
+Kinh phí cho hoạt động thu lệ phí được ngân sách nhà nước bảo đảm theo dự toán hàng năm.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1198,7 +1198,7 @@ CÂU HỎI 21: Theo Thông tư 01/2000/TT-UBCK1, những tổ chức nào đư�
 ======================================================================
 
 📝 TRẢ LỜI:
-Theo Thông tư 01/2000/TT-UBCK1, các tổ chức kinh doanh, dịch vụ chứng khoán được phép thu phí đối với khách hàng bao gồm:
+Theo Thông tư 01/2000/TT-UBCK1, những tổ chức được phép thu phí dịch vụ chứng khoán đối với khách hàng bao gồm:
 
 - Công ty chứng khoán;
 - Công ty quản lý quỹ đầu tư;
@@ -1263,7 +1263,7 @@ CÂU HỎI 22: Mức phí bảo lãnh phát hành chứng khoán tối đa đư�
 ======================================================================
 
 📝 TRẢ LỜI:
-Mức phí bảo lãnh phát hành chứng khoán tối đa được quy định là tối đa không quá 3% tổng trị giá bảo lãnh phát hành theo Thông tư 01/2000/TT-UBCK1.
+Mức phí bảo lãnh phát hành chứng khoán tối đa được quy định là không quá 3% tổng trị giá bảo lãnh phát hành theo Thông tư 01/2000/TT-UBCK1.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1311,11 +1311,11 @@ Câu hỏi: Hành động này có vi phạm quy định tại Thông tư 01/200
 ======================================================================
 
 📝 TRẢ LỜI:
-Theo đoạn văn bản 2.2 trong Thông tư 01/2000/TT-UBCK1, mức phí dịch vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng đối với trái phiếu là tối đa không quá 0,5% trị giá giao dịch.
+Dựa trên các đoạn văn bản pháp luật được cung cấp, hành động của công ty chứng khoán thu phí môi giới giao dịch trái phiếu của khách hàng với mức 0,8% trị giá giao dịch có vi phạm quy định tại Thông tư 01/2000/TT-UBCK1.
 
-Trong tình huống trên, công ty chứng khoán thu phí môi giới giao dịch trái phiếu với mức 0,8% trị giá giao dịch, vượt quá mức tối đa cho phép là 0,5%.
+Theo đoạn văn bản 2.2, phí dịch vụ môi giới (hoa hồng môi giới) mua, bán chứng khoán cho khách hàng, đối với trái phiếu, mức thu tối đa không quá 0,5% trị giá giao dịch. Tuy nhiên, công ty chứng khoán đã thu phí với mức 0,8% trị giá giao dịch, vượt quá mức tối đa cho phép.
 
-Do đó, hành động này vi phạm quy định tại Thông tư 01/2000/TT-UBCK1.
+Do đó, hành động này có vi phạm quy định tại Thông tư 01/2000/TT-UBCK1.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1377,7 +1377,7 @@ Câu hỏi: Tỷ giá quy đổi từ USD sang VNĐ để thanh toán được x
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin trong đoạn văn bản 1, tỷ giá quy đổi từ USD sang VNĐ để thanh toán phí dịch vụ chứng khoán được thực hiện theo tỷ giá trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước công bố tại thời điểm thu.
+Dựa trên đoạn văn bản số 1, tỷ giá quy đổi từ USD sang VNĐ để thanh toán phí dịch vụ chứng khoán cho khách hàng nước ngoài được thực hiện theo tỷ giá trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước công bố tại thời điểm thu.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1431,7 +1431,7 @@ CÂU HỎI 25: Mức thu phí đại diện người sở hữu trái phiếu đ
 ======================================================================
 
 📝 TRẢ LỜI:
-Mức thu phí đại diện người sở hữu trái phiếu được tính tối đa là 0,1% tổng trị giá trái phiếu phát hành.
+Mức thu phí đại diện người sở hữu trái phiếu được tính tối đa không quá 0,1% tổng trị giá trái phiếu phát hành.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1487,7 +1487,7 @@ CÂU HỎI 26: Phí dịch vụ lưu ký chứng khoán đối với khách hàn
 ======================================================================
 
 📝 TRẢ LỜI:
-Phí dịch vụ lưu ký chứng khoán đối với khách hàng được tính dựa trên cơ sở mức phí do TTGDCK quy định với thành viên lưu ký và cộng thêm một tỷ lệ thỏa thuận giữa khách hàng và tổ chức lưu ký.
+Phí dịch vụ lưu ký chứng khoán đối với khách hàng của tổ chức lưu ký được tính toán dựa trên cơ sở mức phí do Trung tâm Giao dịch Chứng khoán (TTGDCK) quy định với thành viên lưu ký và cộng thêm một tỷ lệ thoả thuận giữa khách hàng và tổ chức lưu ký.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1595,7 +1595,7 @@ CÂU HỎI 28: Theo Thông tư 01/2000/TT-UBCK1, mức phí dịch vụ tư vấ
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên văn bản được cung cấp, mức phí dịch vụ tư vấn đầu tư và cung cấp thông tin không có mức tối đa cụ thể, mà được quy định là "Mức thu theo thoả thuận giữa khách hàng và tổ chức cung cấp dịch vụ" (Đoạn 2). Do đó, văn bản không đề cập đến mức phí dịch vụ tư vấn đầu tư qua nền tảng trực tuyến tối đa là bao nhiêu tiền mỗi tháng.
+Văn bản không đề cập đến mức phí dịch vụ tư vấn đầu tư qua nền tảng trực tuyến tối đa là bao nhiêu tiền mỗi tháng. Theo đoạn 2.3 của Thông tư 01/2000/TT-UBCK1, mức thu phí dịch vụ tư vấn đầu tư và cung cấp thông tin được thực hiện theo thoả thuận giữa khách hàng và tổ chức cung cấp dịch vụ, không quy định mức phí cụ thể.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1694,7 +1694,7 @@ CÂU HỎI 30: Các công ty kinh doanh chứng khoán phải xử lý như th�
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên đoạn văn bản được cung cấp tại đoạn 2, các công ty kinh doanh chứng khoán phải hạch toán đầy đủ toàn bộ khoản phí thu được trong sổ sách kế toán theo chế độ quản lý tài chính và chế độ kế toán quy định đối với công ty chứng khoán.
+Dựa trên đoạn văn bản số 2, các công ty kinh doanh chứng khoán phải hạch toán đầy đủ toàn bộ khoản phí thu được trong sổ sách kế toán theo chế độ quản lý tài chính và chế độ kế toán quy định đối với công ty chứng khoán.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1748,7 +1748,7 @@ CÂU HỎI 31: Theo Thông tư 01/2013/TT-BTC, khi nộp hồ sơ hợp pháp ho
 ======================================================================
 
 📝 TRẢ LỜI:
-Khi nộp hồ sơ hợp pháp hoá lãnh sự tại Bộ Ngoại giao, cơ quan thu được trích lại 30% số tiền lệ phí.
+Theo Thông tư 01/2013/TT-BTC, khi nộp hồ sơ hợp pháp hoá lãnh sự tại Bộ Ngoại giao, cơ quan thu lệ phí được trích để lại 30% (ba mươi phần trăm) tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1770,14 +1770,14 @@ hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ
 chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền
 thu lệ phí tr...
 
-  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.7192
+  [3] Source: 01_2013_TT-BTC.txt | Score: 0.7192
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
 tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
 Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
 
-  [4] Source: 01_2013_TT-BTC.txt | Score: 0.7192
+  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.7192
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
@@ -1795,21 +1795,18 @@ CÂU HỎI 32: Nếu hồ sơ chứng nhận lãnh sự được nộp tại cơ
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản pháp luật được cung cấp, nếu hồ sơ chứng nhận lãnh sự được nộp tại cơ quan ngoại vụ cấp tỉnh, mức trích lại lệ phí được phân chia như sau:
-
-- Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% tiền thu lệ phí.
-- Chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc Trung ương 10% tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
+Nếu hồ sơ chứng nhận lãnh sự được nộp tại cơ quan ngoại vụ cấp tỉnh, mức trích lại lệ phí được phân chia như sau: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% tiền thu lệ phí và chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc Trung ương 10% tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
-  [1] Source: 01_2013_TT-BTC_1.txt | Score: 0.8514
+  [1] Source: 01_2013_TT-BTC.txt | Score: 0.8514
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
 tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
 Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
 
-  [2] Source: 01_2013_TT-BTC.txt | Score: 0.8514
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 0.8514
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
@@ -1842,7 +1839,13 @@ CÂU HỎI 33: Số tiền lệ phí hợp pháp hoá lãnh sự được trích
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản được cung cấp, số tiền lệ phí hợp pháp hoá lãnh sự được trích để lại cho cơ quan thu nhằm mục đích chi trả cho các hoạt động liên quan đến việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
+Dựa trên các đoạn văn bản pháp luật được cung cấp, số tiền lệ phí hợp pháp hoá lãnh sự được trích để lại cho cơ quan thu nhằm mục đích chi trả cho các hoạt động sau:
+
+- Đối với hồ sơ đề nghị hợp pháp hoá, chứng nhận lãnh sự nộp tại Bộ Ngoại giao: Cơ quan thu lệ phí hợp pháp hoá, chứng nhận lãnh sự (Bộ Ngoại giao) được trích để lại 30% (ba mươi phần trăm) tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao.
+
+- Đối với hồ sơ đề nghị hợp pháp hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm) tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc Trung ương 10% (mười phần trăm) tiền thu lệ phí trước khi nộp vào ngân sách nhà nước để trang trải chi phí cho việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
+
+Như vậy, số tiền lệ phí hợp pháp hoá lãnh sự được trích để lại cho cơ quan thu nhằm mục đích chi trả cho các hoạt động liên quan đến việc thực hiện công việc thu lệ phí tại Bộ Ngoại giao và ngoại vụ các tỉnh, thành phố trực thuộc Trung ương.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -1876,7 +1879,7 @@ hoá, chứng nhận lãnh sự còn lại (70%), cơ quan thu lệ phí phải 
 vào ngân sách nhà nước theo chương, loại, mục, tiểu mục tương ứng của Mục lục
 ngân sách nhà nước hiện hành”....
 
-  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.7015
+  [5] Source: 01_2013_TT-BTC.txt | Score: 0.7015
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
@@ -1890,22 +1893,20 @@ Câu hỏi: Mức chi khen thưởng, phúc lợi tối đa bình quân cho mộ
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin trong đoạn văn bản được cung cấp, cụ thể là đoạn 2 và đoạn 4, trong trường hợp cơ quan thu lệ phí chứng nhận lãnh sự năm nay có tổng số tiền thu lệ phí thấp hơn năm ngoái, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên được quy định như sau:
+Theo đoạn văn bản được cung cấp tại mục 2, sửa đổi, bổ sung của Thông tư 01/2013/TT-BTC, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên trong trường hợp số thu năm nay thấp hơn hoặc bằng năm trước là tối đa bằng 2 (hai) tháng lương thực hiện.
 
-"đ) Chi khen thưởng, phúc lợi cho cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3 (ba) tháng lương thực hiện nếu số thu năm nay cao hơn năm trước và tối đa bằng 2 (hai) tháng lương thực hiện nếu số thu năm nay thấp hơn hoặc bằng năm trước, sau khi đảm bảo các chi phí quy định tại tiết a, b, c và d điểm này."
-
-Do đó, trong trường hợp này, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên là 2 tháng lương thực hiện.
+Vì vậy, trong trường hợp này, mức chi khen thưởng, phúc lợi tối đa bình quân cho một nhân viên là 2 tháng lương thực hiện.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
-  [1] Source: 01_2013_TT-BTC.txt | Score: 1.0000
+  [1] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
   mua sắm thiết bị, công cụ
 làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
 cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
 trong đơn vị theo nguyên tắc bình quân một năm, một người tối đa không quá 3
 (ba) tháng lương...
 
-  [2] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
+  [2] Source: 01_2013_TT-BTC.txt | Score: 1.0000
   mua sắm thiết bị, công cụ
 làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
 cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
@@ -1939,22 +1940,18 @@ Câu hỏi: Số tiền dư này sẽ bị thu hồi vào ngân sách nhà nư�
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản pháp luật được cung cấp, không có thông tin cụ thể về việc xử lý số tiền dư lệ phí hợp pháp hóa lãnh sự được trích lại (phần 10%) của cơ quan ngoại vụ tỉnh A sau khi quyết toán đúng chế độ.
-
-Tuy nhiên, theo đoạn 3 và đoạn 4, số tiền thu lệ phí hợp pháp hóa, chứng nhận lãnh sự còn lại (70%) phải trực tiếp nộp vào ngân sách nhà nước. Nhưng không có thông tin về việc xử lý số tiền dư được trích lại (phần 10%).
-
-Vì vậy, cần phải tham khảo thêm các quy định pháp luật khác để xác định cách xử lý số tiền dư này. Văn bản được cung cấp không đề cập đến vấn đề này.
+Văn bản không đề cập đến vấn đề xử lý số tiền dư lệ phí hợp pháp hóa lãnh sự được trích lại mà cơ quan ngoại vụ tỉnh A chưa chi hết sau khi quyết toán đúng chế độ.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
-  [1] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
+  [1] Source: 01_2013_TT-BTC.txt | Score: 1.0000
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
 tiền thu lệ phí, chuyển cho cơ quan ngoại vụ các tỉnh, thành phố trực thuộc
 Trung ương 10% (mười phần trăm) tiền thu lệ phí trước ...
 
-  [2] Source: 01_2013_TT-BTC.txt | Score: 1.0000
+  [2] Source: 01_2013_TT-BTC_1.txt | Score: 1.0000
   nghị hợp pháp
 hoá, chứng nhận lãnh sự nộp tại ngoại vụ các tỉnh, thành phố trực thuộc Trung
 ương: Cơ quan thu lệ phí (Bộ Ngoại giao) được để lại 20% (hai mươi phần trăm)
@@ -2031,7 +2028,7 @@ HỘI CHỦ NGHĨA VIỆT NAM
  SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 36/2004/TT-BTC NGÀY
 26/4/2004 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP VÀ QUẢN LÝ SỬ DỤNG LỆ PHÍ HỢ...
 
-  [5] Source: 01_2013_TT-BTC.txt | Score: 0.5276
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.5276
   3. Tổ chức, cá nhân thuộc đối tượng
 nộp lệ phí và các cơ quan liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình triển khai thực hiện, nếu có vướng mắc, đề nghị các tổ chức, cá
 nhân phản ánh kịp thời về Bộ Tài chính để xem xét, hướng dẫn./. Nơi nhận: - Văn phòng Trung ương Đảng; - Văn...
@@ -2041,7 +2038,7 @@ CÂU HỎI 37: Các khoản đóng góp theo quy định được phép chi từ
 ======================================================================
 
 📝 TRẢ LỜI:
-Căn cứ vào các đoạn văn bản pháp luật được cung cấp, các khoản đóng góp theo quy định được phép chi từ nguồn lệ phí giữ lại (tính trên tiền lương) gồm:
+Dựa trên các đoạn văn bản được cung cấp, các khoản đóng góp theo quy định được phép chi từ nguồn lệ phí giữ lại (tính trên tiền lương) gồm:
 
 - Bảo hiểm y tế
 - Bảo hiểm xã hội
@@ -2077,7 +2074,7 @@ tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí: tiền l
 cấp lương, các khoản đóng góp theo quy định được tính trên tiền lương (bảo hiểm
 y tế, ...
 
-  [5] Source: 01_2013_TT-BTC.txt | Score: 0.4342
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.4342
   mua sắm thiết bị, công cụ
 làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
 cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
@@ -2186,7 +2183,7 @@ CÂU HỎI 40: Nguồn tiền lệ phí hợp pháp hóa lãnh sự được tr�
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản được cung cấp, không có thông tin cụ thể về việc nguồn tiền lệ phí hợp pháp hóa lãnh sự được trích lại có được dùng để trả lương cho tất cả cán bộ làm việc tại cơ quan thu lệ phí hay không. Văn bản chỉ đề cập đến việc cơ quan thu lệ phí được trích để lại một phần tiền thu lệ phí để trang trải chi phí cho việc thực hiện công việc thu lệ phí, nhưng không nêu rõ chi tiết về việc sử dụng số tiền này.
+Văn bản không đề cập đến vấn đề sử dụng nguồn tiền lệ phí hợp pháp hóa lãnh sự để trả lương cho tất cả cán bộ làm việc tại cơ quan thu lệ phí.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2232,7 +2229,7 @@ CÂU HỎI 41: Thông tư 01/2003/TT-BTC áp dụng để thu phí sử dụng �
 ======================================================================
 
 📝 TRẢ LỜI:
-Thông tư 01/2003/TT-BTC áp dụng để thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng.
+Thông tư 01/2003/TT-BTC áp dụng để thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng, cụ thể là xe ô tô con quân sự và xe ô tô vận tải quân sự mang biển số nền màu đỏ, chữ và số màu trắng dập chìm.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2319,7 +2316,7 @@ CÂU HỎI 42: Mệnh giá vé năm thu phí đường bộ đối với xe ô t
 ======================================================================
 
 📝 TRẢ LỜI:
-Mệnh giá vé năm thu phí đường bộ đối với xe ô tô con quân sự mức 2 là 1.000.000 đồng/vé/năm.
+Mệnh giá vé năm thu phí đường bộ đối với xe ô tô con quân sự mức 2 theo Thông tư 01/2003/TT-BTC là 1.000.000 đồng/vé/năm.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2408,7 +2405,7 @@ Câu hỏi: Số tiền phí sử dụng đường bộ toàn quốc phải nộ
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên thông tin trong đoạn văn bản 1, xe ô tô vận tải quân sự thuộc mức 2 có mức phí sử dụng đường bộ toàn quốc là 1.500.000 đồng/vé/năm. Do đó, số tiền phí sử dụng đường bộ toàn quốc phải nộp trong 1 năm cho chiếc xe này là 1.500.000 đồng.
+Dựa trên thông tin trong đoạn văn bản 1, đối với xe ô tô vận tải quân sự thuộc danh mục chịu phí mức 2, mức phí sử dụng đường bộ toàn quốc phải nộp trong 1 năm là 1.500.000 đồng.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2477,7 +2474,7 @@ CÂU HỎI 44: Thông tư 01/2003/TT-BTC ra đời nhằm mục đích gì đố
 ======================================================================
 
 📝 TRẢ LỜI:
-Thông tư 01/2003/TT-BTC ra đời nhằm sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng.
+Thông tư 01/2003/TT-BTC ra đời nhằm sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng, dựa trên Pháp lệnh phí và lệ phí số 38/2001/PL-UBTVQH10 và Nghị định số 57/2002/NĐ-CP.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2547,7 +2544,7 @@ CÂU HỎI 45: Mức phí đường bộ (vé năm) cho xe ô tô con quân sự
 ======================================================================
 
 📝 TRẢ LỜI:
-Mức phí đường bộ (vé năm) cho xe ô tô con quân sự mức 1 là 2.000.000 đồng/vé/năm.
+Dựa trên đoạn văn bản 1, mức phí đường bộ (vé năm) cho xe ô tô con quân sự mức 1 là 2.000.000 đồng/vé/năm.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2608,7 +2605,7 @@ thành phố trực thuộc Trung ương khoản chi phí nhân công được t
 tối thiểu là 144.000đ/tháng, cấp bậc tiền lương theo bảng lương A6 kèm theo Nghị
 định số 05/...
 
-  [5] Source: 01_2013_TT-BTC.txt | Score: 0.0653
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.0653
   mua sắm thiết bị, công cụ
 làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
 cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
@@ -2622,14 +2619,14 @@ Câu hỏi: Tổng số tiền mua vé năm thu phí sử dụng đường bộ 
 ======================================================================
 
 📝 TRẢ LỜI:
-Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A là:
+Dựa trên thông tin trong Đoạn 1, chúng ta có thể tính tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A như sau:
 
-- 3 xe ô tô con quân sự (mức 1): 3 x 2.000.000 = 6.000.000 đồng
-- 2 xe ô tô vận tải quân sự (mức 1): 2 x 3.000.000 = 6.000.000 đồng
+- 3 xe ô tô con quân sự (mức 1): 3 x 2.000.000 = 6.000.000 đồng/năm
+- 2 xe ô tô vận tải quân sự (mức 1): 2 x 3.000.000 = 6.000.000 đồng/năm
 
-Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện là: 6.000.000 + 6.000.000 = 12.000.000 đồng.
+Tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện là: 6.000.000 + 6.000.000 = 12.000.000 đồng/năm
 
-Vậy, tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A là 12.000.000 đồng.
+Vậy, tổng số tiền mua vé năm thu phí sử dụng đường bộ cho 5 phương tiện của đơn vị quân đội A là 12.000.000 đồng/năm theo Thông tư 01/2003/TT-BTC.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2694,7 +2691,7 @@ VIỆC SỬA ĐỔI MỨC THU PHÍ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI XE QU
 THÁNG 01 NĂM 2005 HƯỚNG DẪN CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP
 PHÉP, THAY ĐỔI NỘI DUNG GIẤY PHÉP, ĐĂNG...
 
-  [5] Source: 01_2013_TT-BTC.txt | Score: 0.1450
+  [5] Source: 01_2013_TT-BTC_1.txt | Score: 0.1450
   mua sắm thiết bị, công cụ
 làm việc và các khoản chi khác liên quan trực tiếp đến việc thu lệ phí. đ) Chi khen thưởng, phúc lợi cho
 cán bộ, nhân viên trực tiếp thực hiện công việc, dịch vụ và thu phí, lệ phí
@@ -2734,7 +2731,7 @@ Chí Trung
 (Đã
 ký)...
 
-  [3] Source: 01_2013_TT-BTC.txt | Score: 0.6441
+  [3] Source: 01_2013_TT-BTC_1.txt | Score: 0.6441
   Điều 2.
 
 1.
@@ -2742,7 +2739,7 @@ ký)...
 Thông tư
 này có hiệu lực thi hành kể từ ngày 01/3/2013....
 
-  [4] Source: 01_2013_TT-BTC_1.txt | Score: 0.6441
+  [4] Source: 01_2013_TT-BTC.txt | Score: 0.6441
   Điều 2.
 
 1.
@@ -2851,7 +2848,7 @@ CÂU HỎI 49: Xe công vụ của lực lượng Cảnh sát mang biển số x
 ======================================================================
 
 📝 TRẢ LỜI:
-Dựa trên các đoạn văn bản được cung cấp, Thông tư 01/2003/TT-BTC chỉ đề cập đến việc sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng, cụ thể là xe mang biển số nền màu đỏ, chữ và số màu trắng dập chìm. Không có thông tin nào đề cập đến việc áp dụng mức thu phí này đối với xe công vụ của lực lượng Cảnh sát mang biển số xanh, dập chìm. Do đó, Thông tư 01/2003/TT-BTC không áp dụng cho trường hợp này.
+Văn bản không đề cập đến vấn đề này. Thông tư 01/2003/TT-BTC chỉ đề cập đến việc sửa đổi mức thu phí sử dụng đường bộ đối với xe quân sự của Bộ Quốc phòng mang biển số nền màu đỏ, chữ và số màu trắng dập chìm.
 
 📚 CHUNKS ĐÃ TÌM (5):
 
@@ -2938,7 +2935,10 @@ CÂU HỎI 50: Thông tư 01/2003/TT-BTC được ban hành dựa trên ý kiế
 ======================================================================
 
 📝 TRẢ LỜI:
-Thông tư 01/2003/TT-BTC được ban hành căn cứ vào Pháp lệnh phí và lệ phí số 38/2001/PL-UBTVQH10 ngày 28/8/2001 và Nghị định số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí.
+Thông tư 01/2003/TT-BTC được ban hành dựa trên ý kiến hiệp thương và căn cứ vào các cơ sở pháp lý sau:
+
+- Pháp lệnh phí và lệ phí số 38/2001/PL-UBTVQH10 ngày 28/8/2001;
+- Nghị định số 57/2002/NĐ-CP ngày 03 tháng 6 năm 2002 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí.
 
 📚 CHUNKS ĐÃ TÌM (5):
 

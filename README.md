@@ -89,3 +89,5 @@ python main.py
    - Kết quả trả lời được đưa qua RAGAS.
    - RAGAS tính toán các điểm số (metrics).
    - Kết quả cuối cùng được lưu vào thư mục `output/` dưới dạng file JSON và CSV.
+
+Xem thêm kiến thức về hybrid search cụ thể ở doc: [Hybrid Search](https://docs.google.com/document/d/1lEYxrQ5bqO-z7GN0b8PaoGdgyECVT_X257SwMIVB6Lg/edit?usp=sharing)

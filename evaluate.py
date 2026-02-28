@@ -1,6 +1,6 @@
 """
 Module đánh giá: sử dụng RAGAS framework (v0.4.x) để đánh giá chất lượng RAG pipeline
-Các metrics: Faithfulness, ResponseRelevancy, LLMContextPrecisionWithReference, ContextRecall
+Các metrics: Faithfulness, LLMContextPrecisionWithReference, ContextRecall, AnswerRelevancy
 """
 import json
 import os
@@ -9,13 +9,14 @@ from typing import List, Dict
 from ragas import evaluate, RunConfig, EvaluationDataset, SingleTurnSample
 from ragas.metrics import (
     Faithfulness,
-    ResponseRelevancy,
     LLMContextPrecisionWithReference,
     ContextRecall,
+    AnswerRelevancy,
 )
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
+from langchain_huggingface import HuggingFaceEmbeddings
 
 from config import (
     LLM_API_KEY, LLM_BASE_URL, LLM_MODEL, LLM_TEMPERATURE,
@@ -39,12 +40,12 @@ def create_ragas_llm():
 
 def create_ragas_embeddings():
     """
-    Tạo Embedding wrapper cho RAGAS sử dụng NVIDIA NIM embeddings
+    Tạo Embeddings wrapper cho RAGAS (dùng cho AnswerRelevancy)
     """
-    embeddings = OpenAIEmbeddings(
-        model="nvidia/nv-embedqa-e5-v5",
-        api_key=LLM_API_KEY,
-        base_url=LLM_BASE_URL,
+    embeddings = HuggingFaceEmbeddings(
+        model_name=EMBEDDING_MODEL,
+        model_kwargs={"device": "cpu"},
+        encode_kwargs={"normalize_embeddings": True},
     )
     return LangchainEmbeddingsWrapper(embeddings)
 
@@ -99,24 +100,27 @@ def run_ragas_evaluation(pipeline_results: List[Dict]) -> Dict:
     dataset = prepare_ragas_dataset(pipeline_results)
     print(f"✅ Dataset: {len(dataset)} samples")
 
-    # Tạo LLM và Embeddings cho RAGAS
-    print("🔄 Đang khởi tạo LLM và Embeddings cho RAGAS...")
+    # Tạo LLM cho RAGAS
+    print("🔄 Đang khởi tạo LLM cho RAGAS...")
     ragas_llm = create_ragas_llm()
+
+    # Tạo Embeddings cho RAGAS (cần cho AnswerRelevancy)
+    print("🔄 Đang khởi tạo Embeddings cho RAGAS...")
     ragas_embeddings = create_ragas_embeddings()
 
-    # Khởi tạo metrics (RAGAS 0.4.x dùng class instances, truyền llm/embeddings khi khởi tạo)
+    # Khởi tạo metrics (RAGAS 0.4.x dùng class instances, truyền llm khi khởi tạo)
     metrics = [
         Faithfulness(llm=ragas_llm),
-        ResponseRelevancy(llm=ragas_llm, embeddings=ragas_embeddings),
         LLMContextPrecisionWithReference(llm=ragas_llm),
         ContextRecall(llm=ragas_llm),
+        AnswerRelevancy(llm=ragas_llm, embeddings=ragas_embeddings),
     ]
 
     metric_names = [
         "faithfulness",
-        "answer_relevancy",
         "context_precision",
         "context_recall",
+        "answer_relevancy",
     ]
 
     # Cấu hình RunConfig: chạy tuần tự để tránh lỗi với NVIDIA NIM

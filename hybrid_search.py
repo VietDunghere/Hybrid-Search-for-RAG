@@ -132,7 +132,7 @@ class HybridSearchEngine:
         bm25_scores = {r["chunk_id"]: r["bm25_score"] for r in bm25_results}
         dense_scores = {r["chunk_id"]: r["dense_score"] for r in dense_results}
         
-        # Normalize
+        # Normalize bằng Min-Max
         if bm25_scores:
             bm25_vals = list(bm25_scores.values())
             min_b, max_b = min(bm25_vals), max(bm25_vals)
